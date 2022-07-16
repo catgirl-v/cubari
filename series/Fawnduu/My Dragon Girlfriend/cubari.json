@@ -1,0 +1,19 @@
+{
+  "$schema": "../../../schema/cubari/gistSource.schema.json",
+  "title": "My Dragon Girlfriend",
+  "description": "A heartwarming story about two girls falling in love, but one of them is a dragon!?",
+  "artist": "Fawnduu",
+  "author": "Fawnduu",
+  "chapters": {
+    "1": {
+      "title": "AND SO IT BEGINS #INKTOBER2017",
+      "volume": "1",
+      "groups": {
+        "Twitter: @Fawnduu": [
+          "https://pbs.twimg.com/media/DLDnHUDUEAEpa15?format=jpg&name=orig",
+          "https://pbs.twimg.com/media/DLDnLw7VwAEZglF?format=jpg&name=orig"
+        ]
+      }
+    }
+  }
+}

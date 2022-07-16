@@ -1,0 +1,39 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cubari.moe/schema/gistSource.chapterPages.schema.json",
+  "title": "Release pages",
+  "description": "The pages of the release of the chapter from the release group",
+  "type": "array",
+  "items": {
+    "oneOf": [
+      {
+        "title": "Page URL",
+        "description": "The URL of a page of the release",
+        "type": "string",
+        "format": "uri"
+      },
+      {
+        "title": "Page",
+        "description": "A page of the release",
+        "type": "object",
+        "properties": {
+          "description": {
+            "title": "Description",
+            "description": "The description of the page",
+            "type": "string"
+          },
+          "src": {
+            "title": "URL",
+            "description": "The URL of the page",
+            "type": "string",
+            "format": "uri"
+          }
+        },
+        "required": [
+          "description",
+          "src"
+        ]
+      }
+    ]
+  }
+}

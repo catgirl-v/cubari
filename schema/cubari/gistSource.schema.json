@@ -1,0 +1,120 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cubari.moe/schema/gistSource.schema.json",
+  "title": "Cubari Gist source",
+  "description": "A GitHub-based source for a Cubari series",
+  "type": "object",
+  "properties": {
+    "title": {
+      "title": "Title",
+      "description": "The title of the series",
+      "type": "string"
+    },
+    "description": {
+      "title": "Description",
+      "description": "The description of the series",
+      "type": "string"
+    },
+    "chapters": {
+      "title": "Chapters",
+      "description": "The chapters of the series",
+      "type": "object",
+      "patternProperties": {
+        "^\\d+(\\.\\d+)?$": {
+          "$ref": "#/$defs/cubariSeriesChapter"
+        }
+      },
+      "additionalProperties": false
+    },
+    "artist": {
+      "title": "Artist",
+      "description": "The artist of the series",
+      "type": "string"
+    },
+    "author": {
+      "title": "Author",
+      "description": "The author of the series",
+      "type": "string"
+    },
+    "cover": {
+      "title": "Cover URL",
+      "description": "The URL of the cover of the series",
+      "type": "string",
+      "format": "url"
+    }
+  },
+  "required": [
+    "title",
+    "description",
+    "chapters"
+  ],
+  "$defs": {
+    "decimalNumberString": {
+      "title": "Decimal number",
+      "description": "A decimal number",
+      "type": "string",
+      "minLength": "1",
+      "pattern": "^\\d+(\\.\\d+)?$"
+    },
+    "unixTimeString": {
+      "title": "Unix time",
+      "description": "A Unix time",
+      "type": "string",
+      "minLength": "1",
+      "pattern": "^\\d+$"
+    },
+    "cubariSeriesChapter": {
+      "title": "Chapter",
+      "description": "A chapter in the series",
+      "type": "object",
+      "properties": {
+        "volume": {
+          "title": "Volume",
+          "description": "The volume of the chapter",
+          "type": "string",
+          "default": "Uncategorized"
+        },
+        "title": {
+          "title": "Title",
+          "description": "The title of the chapter",
+          "type": "string",
+          "default": "No Title"
+        },
+        "groups": {
+          "title": "Release groups",
+          "description": "The release groups for the chapter",
+          "type": "object",
+          "propertyNames": {
+            "title": "Name",
+            "description": "The name of the release group"
+          },
+          "additionalProperties": {
+            "title": "Release",
+            "description": "The release of the chapter from the release group",
+            "oneOf": [
+              {
+                "$ref": "#/$defs/cubariSeriesChapterGroup"
+              },
+              {
+                "title": "Release JSON URL",
+                "description": "The URL of a JSON encoding of the release of the chapter from the release group",
+                "type": "string",
+                "format": "uri"
+              }
+            ]
+          }
+        },
+        "last_updated": {
+          "description": "Chapter release date (for all release groups) in Unix time",
+          "$ref": "#/$defs/unixTimeString"
+        }
+      },
+      "required": [
+        "groups"
+      ]
+    },
+    "cubariSeriesChapterGroup": {
+      "$ref": "./gistSource.chapterPages.schema.json"
+    }
+  }
+}
