@@ -28,6 +28,7 @@
   "description": "A heartwarming story about two girls falling in love, but one of them is a dragon!?",
   "artist": "Fawnduu",
   "author": "Fawnduu",
+  "cover": "https://d30womf5coomej.cloudfront.net/sa/bb/5fca3154-c673-4c79-a5c4-d48c768a21c6_z.jpg",
   "chapters": [$tweets[] | if has("photos") then
     {key: .cubariChapter, value: {
       "title": (.cubariTitle // .tweet),
