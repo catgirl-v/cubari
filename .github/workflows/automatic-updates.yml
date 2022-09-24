@@ -32,8 +32,10 @@ jobs:
     - name: Run update script
       run: ./update_series.sh
 
-    - name: Upload artifacts
-      uses: actions/upload-artifact@v2
-      with:
-        name: series
-        path: series
+    - name: Commit changes
+      run: |
+        git config --global user.name 'catgirl-bot'
+        git config --global user.email '<>'
+        git add series
+        git commit -m "Update index (beep boop)"
+        git push
