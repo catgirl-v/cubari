@@ -1,0 +1,39 @@
+name: Update series periodically or upon manual trigger
+
+on:
+  workflow_dispatch:
+
+jobs:
+  update:
+    name: Update series
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Install packages
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y --no-install-recommends jq
+
+    - name: Checkout repo
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
+
+    - name: Checkout twint
+      uses: actions/checkout@v3
+      with:
+        repository: woluxwolu/twint
+        path: twint
+
+    - name: Install twint
+      run: pip3 install . -r requirements.txt
+      working-directory: twint
+
+    - name: Run update script
+      run: ./update_series.sh
+
+    - name: Upload artifacts
+      uses: actions/upload-artifact@v2
+      with:
+        name: series
+        path: series
