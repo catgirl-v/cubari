@@ -2,6 +2,8 @@ name: Update series periodically or upon manual trigger
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '0 0,12 * * *'
 
 jobs:
   update:
