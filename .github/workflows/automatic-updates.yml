@@ -37,5 +37,5 @@ jobs:
         git config --global user.name 'catgirl-bot'
         git config --global user.email '<>'
         git add series
-        git commit -m "Update index (beep boop)"
+        git commit -m "Update index (beep boop)" || exit 0
         git push
