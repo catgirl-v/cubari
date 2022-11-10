@@ -1,0 +1,856 @@
+{
+    "$schema": "../../schema/cubari/gistSource.schema.json",
+    "title": "ADHDinos",
+    "description": "Hyper-focus passion project",
+    "artist": "Ryan Keats",
+    "author": "Ryan Keats",
+    "cover": "https://www.adhdinos.com/uploads/b/b99aff1c958ec1cc221603a698845af861565547d6d17b41f7c115dd4ff8e789/longnecksitblack_1657040274.png",
+    "chapters": {
+        "1": {
+            "title": "Wish I didn't do that...",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.29350-15/263577938_305437864733049_8147771040098353946_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=5e-m1g4h6E4AX-uiSjL&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfAjhea5P5mQ7TF1MpIwzScxAMNKhuyVSzVUsbWJ2D7h-A&oe=63721DA9"
+                ]
+            },
+            "last_updated": 1638397615
+        },
+        "2": {
+            "title": "Happens to the best of us",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.29350-15/263175201_1207120150112613_7823267481301866240_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=OHiVn--nlS4AX9wryVz&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfCnMoRL0HNPMoYdXIoYKVVLX-4cW5aELyzihmmctwWdUw&oe=6371A646"
+                ]
+            },
+            "last_updated": 1638466379
+        },
+        "3": {
+            "title": "",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.29350-15/263488702_206029374928172_7710765237292810810_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=2XYDRlBBKy0AX-11cNW&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfD8LmBdHQjkvpOHNvL4e7lEEdF9MaZsIYe8eygk-nAmpg&oe=6372286C"
+                ]
+            },
+            "last_updated": 1638478936
+        },
+        "4": {
+            "title": "My eyes only",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.29350-15/262774564_648291532858677_1936997778163866845_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=HTx7LL2i9-AAX_8I5R2&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfCCdQc-ULPyzAwK9LVhEWhXpJ5ClYtjJsv5xYceI8V7Kg&oe=637261BF"
+                ]
+            },
+            "last_updated": 1638551900
+        },
+        "5": {
+            "title": "Time flies when you're dissociating",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.29350-15/263374083_859549774717900_6676193086644294444_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=UlzKbmD8E0UAX-9OObU&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfBiVj2d4neZdquM0k9eycpzumHm0LSfz8LAcBUecLLNUw&oe=63712CD9"
+                ]
+            },
+            "last_updated": 1638636247
+        },
+        "6": {
+            "title": "That would be too easy",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-15/263600270_333056641575903_5222619738494319019_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=zWhrQUJRGH8AX_3GoDu&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfBklZazeQfWBjgzkgl_260xJkcO9f37UvK7_Q_tHhF5yA&oe=63717B8E"
+                ]
+            },
+            "last_updated": 1638644405
+        },
+        "7": {
+            "title": "Sorry mum",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-15/263577375_578341376564683_7602071477908311275_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=gOcqSyGuHt8AX-Vqnyl&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfBCW11My4CB-7W1FnyFZVDVBv_tqlhM8hRHUTmkCUXHBA&oe=63723812"
+                ]
+            },
+            "last_updated": 1638732431
+        },
+        "8": {
+            "title": "Tale as old as time",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-15/264585821_598618974689388_8486163694967758958_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=c9CpGr_2n6MAX-fBxJP&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfD56h5UA2XbacIK6sepA64s8VfVQXsuqXKbC-LQc4y7_g&oe=63713DEF"
+                ]
+            },
+            "last_updated": 1638732477
+        },
+        "9": {
+            "title": "Anyone else get locked in a mindless scroll sometimes?",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-15/263733644_403798071436820_2032665216688043740_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=ZlIoA38YJo4AX9wX9p-&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfAEQ-IYnMMvEBBvUc_byzHrVtlpuicti6x8f73-nzZafg&oe=637183B8"
+                ]
+            },
+            "last_updated": 1638807947
+        },
+        "10": {
+            "title": "I make a lot of plans at 2 am",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-15/264471906_608012253850400_6491412112786972207_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=h0p7965h-ioAX_vFh3j&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfCA3XizCVvndKNTrnfJJqDlsFpagTkDvGshfOhtIx5B8A&oe=6371DB5D"
+                ]
+            },
+            "last_updated": 1638807989
+        },
+        "11": {
+            "title": "What are you fixated on this week?",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-15/264281292_641990130573741_8654318803533254387_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=WrH7rPxSuAIAX8-NVrc&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfCAjC0hbw3n3Xw4vcO5BEEztbf-8zlRmQBF51SWYh9W4A&oe=6372CB13"
+                ]
+            },
+            "last_updated": 1638893814
+        },
+        "12": {
+            "title": "But it's so helpful",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-15/264866614_468012981705397_3830695143654580514_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=ITFuTTYVB2kAX8E7ELx&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfCwQJKe2YRjuXBjh2CrQGOqhAL3zhbYk5gkavKCpANtiQ&oe=637114CC"
+                ]
+            },
+            "last_updated": 1638980923
+        },
+        "13": {
+            "title": "He did not.",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-15/265060964_438108924367787_2725797243715418805_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=YvlprP01M-QAX-k7wTn&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfBuiGqFRGOrl8LYiRn-MspjM8rm7-XX7Htm2_-IDyfnPw&oe=63727925"
+                ]
+            },
+            "last_updated": 1638981384
+        },
+        "14": {
+            "title": "Friendly reminder from Dino",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-15/264856076_1047667676031444_3738096136837123563_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=6CE-Z7GUecIAX8iqEnM&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfDmRQAu1o0C86LyrwKyBSpYTM8P6kArp-SAsHxCJln5UQ&oe=6370FD08"
+                ]
+            },
+            "last_updated": 1639065134
+        },
+        "15": {
+            "title": "Every 6 weeks",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-15/265216752_426025555685562_4199108852154596877_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=oc1e6TPC-ccAX9tqdth&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfBKVg8-rW1bbIjFS8wuVNqxMg2x2WqvBU5LEvPgrIu_MA&oe=637139FD"
+                ]
+            },
+            "last_updated": 1639066154
+        },
+        "16": {
+            "title": "No agenda can prepare you for this",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-15/265991098_627998298332102_8081700467310609302_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=zPdBUE_oRAgAX_YBPWr&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfBUztHzdbaExFTH8Fxv4xWmQcyeRm85ZeGk8f87JZyIfw&oe=63727D1F"
+                ]
+            },
+            "last_updated": 1639151197
+        },
+        "17": {
+            "title": "A death sentence",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-15/265988341_207087514930283_2281829879595615539_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=Ar6nHzerdDcAX_gWOSl&_nc_oc=AQnURss6zmYWf6wYblD6ptxgVlup8FWiIAEwOoTFzgbhiJVQmb-_yIvVIkNyj6AXvv0&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfAXwa3WEWq4X3aMJ9I2wF59ohIEPsgDvOVJsbs1kgyUyw&oe=63719DA1"
+                ]
+            },
+            "last_updated": 1639151245
+        },
+        "18": {
+            "title": "She gets me",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-15/265691474_312079880780571_6075157350088071654_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=wA4qiEzMdw0AX-Hxxf1&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfC85bOgTeQrCj9ClS74O81eOVgj1oc03lej3I0qjuvOxw&oe=6371F639"
+                ]
+            },
+            "last_updated": 1639240507
+        },
+        "19": {
+            "title": "Unbelievable",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-15/265803323_1003452583591692_3786547156274286562_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=jloQIZTvvO0AX-64-s9&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfBWixzU1D-3aKxIN7O7eG81LWP5xEpdR6iuP4nTtPJQRg&oe=63724CE3"
+                ]
+            },
+            "last_updated": 1639322601
+        },
+        "20": {
+            "title": "A good night's rest",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-15/267620035_954680125464130_2538400189871530071_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=1JsSMDpm5JUAX_o3Lv8&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfAAwRSI54XlIHd6aqJc58dP30s9c0VLK0lY86PTowDN9w&oe=6371DA4C"
+                ]
+            },
+            "last_updated": 1639422517
+        },
+        "21": {
+            "title": "Apparently, I have many.",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-15/265948126_331699951818648_2397013781831167235_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=Jco0imqgUhwAX8LcjFj&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfA4Yu1mMixn2Pu5gwIj3BPyLp8EOZ3xN0JUChmTtCsGDg&oe=6372DC7F"
+                ]
+            },
+            "last_updated": 1639494055
+        },
+        "22": {
+            "title": "This is unsustainable",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-15/268453209_304424791570746_7628846986313750494_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=jOiWh-Pu28YAX-nqUKG&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfCazrOqGsH1kDcpzPEBqndyyeiHmhNImApkvJnusSrxog&oe=6372B2E9"
+                ]
+            },
+            "last_updated": 1639589961
+        },
+        "23": {
+            "title": "Tendencies of a serial hobbyist",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-15/268936395_907626206785752_5421376445615361599_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=gvzbXa9xNboAX-wGiDZ&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfAOu-39lY5BSL6zsb4au-BvZPNEDoNz6zduYv-OkMfveg&oe=6372038A"
+                ]
+            },
+            "last_updated": 1639760689
+        },
+        "24": {
+            "title": "Happy Holidays from Dino!",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-15/269675587_703357144383845_1296818162625864044_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=FQITiBTzh28AX98vYm9&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfA7y53_ssMPwGwWwaSaNPW7DvqVzNotOdRrSkTkJJrozQ&oe=6372B1FC"
+                ]
+            },
+            "last_updated": 1640009246
+        },
+        "25": {
+            "title": "Cool, Calm & Collected",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-15/269880813_422370166232139_734032261208952623_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=klsbrmXdcGAAX8kLzRE&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfAN2gh8GsF_6tIex5ANYKLfNaA0nmVJAeFrBzoyK6YNUg&oe=6372C49B"
+                ]
+            },
+            "last_updated": 1640272676
+        },
+        "26": {
+            "title": "Haunted House",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-15/270011321_464358025301199_7003938370123617553_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=9qVmXRDeXbkAX-TC8wS&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfD4tN4wIJQWzKXrZ6qw5_vHfUq2tJezShlP2qAW3xiHag&oe=63713AA2"
+                ]
+            },
+            "last_updated": 1640615843
+        },
+        "27": {
+            "title": "Self-aware & willfully ignorant",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-15/270842213_606299277119267_955133496453036231_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=vpVY12NdqtwAX-XaJq2&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfBlWz5Q-xpmblWdH3c0VtiI1iYv_xggCeA9I0vANYIQ9g&oe=63716B62"
+                ]
+            },
+            "last_updated": 1640889090
+        },
+        "28": {
+            "title": "Strategic avoidance",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-15/271333766_1112374326071075_3283739822792064703_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=pR7_3EaPv6wAX9tCQh-&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfAQh4ShfWisjXuWUn7qOFTVhHxV4VcbVJZJjWxzv0l8Xg&oe=6371516D"
+                ]
+            },
+            "last_updated": 1641143562
+        },
+        "29": {
+            "title": "Negotiations",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-15/271240884_156310063396982_6179386630063326891_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=2lhJrlsZZPAAX_aobOl&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfBoVZ7yrv29GxiKPSb19c59z_xAJctCfI-P3LtrHOcwmA&oe=63726737"
+                ]
+            },
+            "last_updated": 1641403540
+        },
+        "30": {
+            "title": "The Tyrannosaurus-Wreck",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-15/271477904_5019020904795070_8200862042142662243_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=tQCFVsbMUqIAX_8eL3u&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfAlMAwYViNwsACn6hh5Qd2MI99YYOv3zlIQHsNlThhTrw&oe=6372B777"
+                ]
+            },
+            "last_updated": 1641658601
+        },
+        "31": {
+            "title": "The long game",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-15/271822669_632666221313879_1459561668570911708_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=alc9OY4w39oAX9L2bQC&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfCHhIcZqZlpr3pktgryaUZER89-30XfBs8BrcEP6b3Y6g&oe=6372561B"
+                ]
+            },
+            "last_updated": 1642001084
+        },
+        "32": {
+            "title": "Critical thinking",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-15/272043689_600708737690340_2115067942666783936_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=2BBxA5yvd6kAX-jTTQU&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfDtWSlgvyzRkM3SHHwO-ohafSzEJIbbSERiTfUZarNkgQ&oe=637256A6"
+                ]
+            },
+            "last_updated": 1642347338
+        },
+        "33": {
+            "title": "Balance",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.29350-15/272240324_696525284672087_740521411652820535_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=o8tvqX_VqMsAX_ZF-nc&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfAg2Tq0VvNR9D_5oVyxrq8eAbfJ2Zacx4fKo3oIFvhyCg&oe=63725AD6"
+                ]
+            },
+            "last_updated": 1642769159
+        },
+        "34": {
+            "title": "No yeah, definitely.",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-15/272668392_353474593274982_1008676506893840521_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=CNEM69kwXn4AX83RNzt&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfB4Cyvcdt2O1GXzqlLfZz4oG3a42D5tMyZQhdNKU3JSXA&oe=63728E0E"
+                ]
+            },
+            "last_updated": 1643155716
+        },
+        "35": {
+            "title": "Quiet thoughts only",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.29350-15/272841598_988751205357695_67377432053949964_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=nOEvADa9tx0AX_Wuw_A&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfAzJCBGJ0ODY9ZPna30JtSZqogZc_COSvraKV3AZ9GlNA&oe=63714F25"
+                ]
+            },
+            "last_updated": 1643482919
+        },
+        "36": {
+            "title": "Progress?",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-15/273121259_380824980474715_1299818802471446489_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=np_TpXuGXuUAX9uJBte&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfArUwmH6rg2sAQQsugpFVx3MpLfML457dxiiJVelb-l_w&oe=63720321"
+                ]
+            },
+            "last_updated": 1643727615
+        },
+        "37": {
+            "title": "A little mindfulness pitstop",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-15/273174262_670543640751122_1343849640592370873_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=OjmIzipVewIAX9Og6hm&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfB5AnouxfUhRfQgSCpM5KMySrxTUM1TkYYG7G3i3qENdQ&oe=63717A81"
+                ]
+            },
+            "last_updated": 1643993616
+        },
+        "38": {
+            "title": "When was the last time you had a vegetable?",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.29350-15/273495850_111035894723099_2591487649154027183_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=lbjaF1ovfV4AX_e6Xbl&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfCQkplIg51lGlVLgFWa55XbaWULXDuebODd_-RvKTgkgQ&oe=63710E37"
+                ]
+            },
+            "last_updated": 1644339821
+        },
+        "39": {
+            "title": "That's one approach",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-15/273693814_366938234889122_3474304251237262448_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=El065xwqbgIAX9wtGGw&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfDaAFAMKMVFODnc5UnXmH5M4jGoCEkq-cRn0k4asAsh_w&oe=6370F0DC"
+                ]
+            },
+            "last_updated": 1644586839
+        },
+        "40": {
+            "title": "Okay, it might be that",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-15/273901486_498213155069973_7542154777880262466_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=B8IW-iXl_NYAX8nivl5&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfDibKervIHZQEA2IOSwnnOMHjYdH-EiAXEd4xgNUsLnHw&oe=63710793"
+                ]
+            },
+            "last_updated": 1644856535
+        },
+        "41": {
+            "title": "And now, to find it",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-15/274143529_378148400309191_4191446493382192946_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=3hGUzQuHNqcAX-Mp1oY&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfC1SL1Odar6DM8Ns6CS4XAvXdAVnByj7DR-xrG9LUcDfw&oe=6371AF45"
+                ]
+            },
+            "last_updated": 1645107061
+        },
+        "42": {
+            "title": "I'm just trying my best",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-15/274479445_1009192946664762_7190318218384969441_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=I_ribuZWf7YAX93NMeA&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfByU202Alt63lVc_NM9jV70WHxSok9NNCdk0j6ItukBxw&oe=6370FE9B"
+                ]
+            },
+            "last_updated": 1645446471
+        },
+        "43": {
+            "title": "A bad influence",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-15/274626278_2926015614363919_424976028937017053_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=Kn9p8YFq4ekAX9tOCDp&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfBDz5QSHbMBl_b3BzgCZRpNj75_xP2Or_HKm59aEaYQcg&oe=6371635D"
+                ]
+            },
+            "last_updated": 1645697742
+        },
+        "44": {
+            "title": "And no, I didn't leave a voicemail",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-15/274776423_3061822954082080_813575837501974371_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=PmgjmC5SVLEAX_0fyN_&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfBrtBypSb-P3qfJmHPcUM_BeN14hnm2hcYFLP-qCxlTZA&oe=6372776F"
+                ]
+            },
+            "last_updated": 1645970499
+        },
+        "45": {
+            "title": "Self Improvement",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.29350-15/274998358_134249559112320_8065614565103666903_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=IXrB9hixLc0AX-4q8Et&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfDw8JAqSe_uUD9xu3_tfTsC7UvMecRCfqfrwUQerotARQ&oe=6372CE13"
+                ]
+            },
+            "last_updated": 1646309325
+        },
+        "46": {
+            "title": "A Magic Trick",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.29350-15/275220864_147966630972114_8287757862040446011_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=EgmAACmwvYIAX8pAjvz&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfCi6kqHyru_-O70iuyKROFYToo7_wtAdyb4My3iIHD6KA&oe=6372B1F0"
+                ]
+            },
+            "last_updated": 1646568614
+        },
+        "47": {
+            "title": "Anticipation",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-15/275470541_333881595463610_2716388584587835082_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=GY50KYThDzIAX_Yu9Rr&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfBM_XQZm9CF2okkmOX-cpJVEmlV30Fh4cEpG-fJ7bsXzw&oe=6371C4BA"
+                ]
+            },
+            "last_updated": 1646935581
+        },
+        "48": {
+            "title": "Self-Reflection",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-15/275678613_7218012681573804_3638004819995961310_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=z5WJ9uG4OGUAX91394Y&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfCmAlbMOnVXlsQ-GSj6kJ5Osh9qN2je24hS5sWo5qBubg&oe=6372A8B3"
+                ]
+            },
+            "last_updated": 1647166787
+        },
+        "49": {
+            "title": "Fair enough",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-15/275918520_511483313835271_6429108152995303646_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=n8lbkUSJNDcAX-FRPPY&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfBmBiJlduzNl0bVb8IPbDuzKKrTR4r5O7LnI6pTbxmuaQ&oe=6372DD54"
+                ]
+            },
+            "last_updated": 1647520059
+        },
+        "50": {
+            "title": "Problem-solving",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.29350-15/276031078_375833144143941_8538408980326767257_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=P3aV3Kh1xw8AX_SDA4A&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfDTIOje8s_i6SScQ6tZyJRpnwZx6zwPqrOJ2NBvmHvGzA&oe=63721B3C"
+                ]
+            },
+            "last_updated": 1647779440
+        },
+        "51": {
+            "title": "Adventures in Emotional Dysregulation",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.29350-15/277143706_1076861552873902_6903269091237774819_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=ycFbmdii_aIAX8JO-UV&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfA5ME9ET2p5Nu3Txy4Ag1eKgy0uAqKjl5y00OG2ReSHgQ&oe=6371C8F7"
+                ]
+            },
+            "last_updated": 1648118481
+        },
+        "52": {
+            "title": "Reminder to send that email",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.29350-15/277419540_297793962470883_375312099688755858_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=dEj71REZJpwAX-6NLWW&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfCIW1DCoZ_3Vdx7O6oKXSl4CGn1mQggRPYW4BpMpoW1Og&oe=6371F6AF"
+                ]
+            },
+            "last_updated": 1648380782
+        },
+        "53": {
+            "title": "High Stress/Achiever",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.29350-15/277648611_506871130991896_5267120645242536747_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=efJUHu5q4wkAX-kR5qi&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfDeAS0hJYcMvNJ9V0b2BUdH6SrGihGhJrtCJ62VyDlrig&oe=6372D658"
+                ]
+            },
+            "last_updated": 1648725093
+        },
+        "54": {
+            "title": "Casual Sunday",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.29350-15/277700633_1109819919565094_8515697436250494877_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=5qDoKnCbOjgAX8IUl3_&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfDec6mHy9VISwCvpDvj-fx8h1rbp8S_io3LaBfwwuBw-A&oe=6370F5CE"
+                ]
+            },
+            "last_updated": 1648984009
+        },
+        "55": {
+            "title": "The Cost of Productivity",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-15/277950900_509300564051950_1813509974234863655_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=rLxaqYCLNhAAX9nwELg&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfBS4uQhFBM73UGwduGLklsyeXOpWZZBYWkODjiUbFuLHQ&oe=6370F313"
+                ]
+            },
+            "last_updated": 1649246594
+        },
+        "56": {
+            "title": "Vote now in the comments!",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-15/278059665_3224563247788644_1744843050702810932_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=BGVtFtygNu0AX_7g4Lz&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfCx4h_r8JPfA60IpYWK86vpAXiTkglzkciiigh3biAcHQ&oe=6372C9EF"
+                ]
+            },
+            "last_updated": 1649587260
+        },
+        "57": {
+            "title": "Thanks Anxiety-Rex",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-15/278406442_1090962718414712_537171371181218978_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=kqKP9zVjaeIAX8urg6M&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfDKctojFbhpaLKxrYeNMZTxa7gBvgtsdm2cDk8HLku5Cg&oe=6371B117"
+                ]
+            },
+            "last_updated": 1649932204
+        },
+        "58": {
+            "title": "Motivation",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-15/278617470_688817848995087_3038529956509054517_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=qZnZp4HAo8QAX8ulxf7&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfCunC8tl38FLnXdmEXRTf4-tQEMT-A_2XuxyjojOepvjA&oe=63724023"
+                ]
+            },
+            "last_updated": 1650191405
+        },
+        "59": {
+            "title": "Self-talk",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-15/278823400_402975574649219_8733893283771104201_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=WeJEI3eOjjIAX--e1Io&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfC_dEVivrozQAVIo3W7RDIcpx49i-pNCyFkCyzgM83ZYQ&oe=6372945D"
+                ]
+            },
+            "last_updated": 1650537007
+        },
+        "60": {
+            "title": "Productivity",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.29350-15/279000760_720218035673152_3430385988808731245_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=4EVfUZ_BGAsAX9VUBgx&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfDYfqTGu7TeqM2Uh5UJbDljZGy_c8Tk5EZnvmTjJsRfOA&oe=637125B9"
+                ]
+            },
+            "last_updated": 1650796001
+        },
+        "61": {
+            "title": "Great point",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-15/279365114_325746469492920_5077510198148656145_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=89FFvw_gTy8AX-tkJy1&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfCQewJNLYA7_qc9RnfuNplctTFrsORudhSrTwtJQ1AsYg&oe=63717C74"
+                ]
+            },
+            "last_updated": 1651141806
+        },
+        "62": {
+            "title": "Self-control",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-15/279467664_969827836859231_1257333778817176044_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=3tPGlnfXjYAAX-NjMNu&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfBuA3yX8z-rt5PQLwEm0kl_EEI85dTblg8AIVhHARniRA&oe=6372668C"
+                ]
+            },
+            "last_updated": 1651401003
+        },
+        "63": {
+            "title": "Stress",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-15/279701553_1025607755043687_4761457431747278438_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=WfrhX3y2C00AX-WTINw&_nc_ht=scontent-lax3-1.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfC1PXBSB_KFC1NXptYic8Ags-4oRrcparwvXd1wk5FYjg&oe=6370D982"
+                ]
+            },
+            "last_updated": 1651746605
+        },
+        "64": {
+            "title": "Practice makes... better",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-15/280037881_1686923584992111_7417005228303658663_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=8GXhyW3U9rkAX9grDVt&_nc_ht=scontent-lax3-1.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfDQsfF69a6M-gbhA0Mw4GNtTalbdBM_KG5b4AqOrYkbRw&oe=637155D5"
+                ]
+            },
+            "last_updated": 1652005806
+        },
+        "65": {
+            "title": "Storytime",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-15/280661864_798268934484246_3898840206612324597_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=yJBfVK5eZisAX_o7mip&_nc_ht=scontent-lax3-1.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfBXhFRYD25gWH-43vqDZmnw3mp9luJpx3DJsMQ1FcYeWg&oe=6370DE66"
+                ]
+            },
+            "last_updated": 1652351403
+        },
+        "66": {
+            "title": "Task (dis)oriented",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-15/280709237_154804503706331_2937949297342075934_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=f0gGhugycnMAX9S6Wz7&_nc_ht=scontent-lax3-1.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfD-WmfO3-_JWsrsrEpR883hVzSHQoinxmKFHZsl1GbEfQ&oe=63720E35"
+                ]
+            },
+            "last_updated": 1652610603
+        },
+        "67": {
+            "title": "Revelations",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-15/281577360_574837807293473_3762268717688363847_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=563TsLLPxx4AX9KZo9A&_nc_ht=scontent-lax3-1.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfDdvaALKTfSWYdF0ehyYLD8rt_rNmREh88UOBm7W01iyA&oe=63712434"
+                ]
+            },
+            "last_updated": 1652956205
+        },
+        "68": {
+            "title": "This often backfires",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-15/282373609_3134779010118861_6573294949860595399_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=i0MXCR7YkIsAX-jd_H7&_nc_ht=scontent-lax3-1.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfAj6qxkz-CMPViovUfve3K2rSK8Cn-nXvuI5n76yxYl_A&oe=637187E1"
+                ]
+            },
+            "last_updated": 1653210004
+        },
+        "69": {
+            "title": "The passion project",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-15/283702717_346043330971250_7383349866036939647_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=3izAj9_oW_sAX-YZsGv&_nc_ht=scontent-lax3-1.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfD7AwhxNIfuyuyYCV0TjKPv2mFUFzKqrXINp8P2ZzDiSQ&oe=6371258A"
+                ]
+            },
+            "last_updated": 1653474619
+        },
+        "70": {
+            "title": "Shower thoughts",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-15/284148902_379775310784959_8293931410697726860_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=HCQsxlIbqKEAX8wbhvo&_nc_ht=scontent-lax3-1.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfBgCwN-J-NP7VOLOlIs_NE1bMv6jQzgDS2TveXK3a0SNQ&oe=6370C1D9"
+                ]
+            },
+            "last_updated": 1653820204
+        },
+        "71": {
+            "title": "Every word",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-15/286061106_347903727446299_2666087795237297231_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=u86jC97j8YgAX_U3nvK&_nc_ht=scontent-lax3-1.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfDz8_OPed3y94NkM0TDmTNG1iYQ06swUieZN9dVipc2ag&oe=6371D07E"
+                ]
+            },
+            "last_updated": 1654425007
+        },
+        "72": {
+            "title": "Ignorance = Bliss",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-15/286787878_291726269756033_2413325866977833895_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=hWHUpuR3PmoAX-e0Q9O&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfAYbHUfHlFuXM_3VLNAUwuSF1t1m0GqAOJZGS-j6MDDbA&oe=6370FE67"
+                ]
+            },
+            "last_updated": 1654684207
+        },
+        "73": {
+            "title": "Bring the thing",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-15/287589825_998100570781139_5026295823146906463_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=rBs0fdBu8QEAX9adEPI&_nc_oc=AQndPt4jFZqrksFi71cFaNd_aRx763iOAK8pcc9veVt9mYqYP3-2-GSfXl_aC1fTL6E&_nc_ht=scontent-lax3-1.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfBi5zLW4HdYBpnIEQh380EcDHB5ZDE6Lorr1VRGAvC5Xg&oe=63713531"
+                ]
+            },
+            "last_updated": 1655029805
+        },
+        "74": {
+            "title": "Impulsive eating",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-15/288808336_724717675521878_7597082457954670243_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=ZftW1e9iPfEAX-EB_WE&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfBxlBuTkHcNu6yYWKIGmj2yf5vOY_2eXr-VySyMWMxVtw&oe=6371458F"
+                ]
+            },
+            "last_updated": 1655634607
+        },
+        "75": {
+            "title": "Dedication",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-15/290686759_1166490180583894_2704884987569252081_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=I9iNDHpQQq8AX9FC0te&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfCYVKp0enQaKXZjEpJTJ1_MCsoS0NEgwjFdcBx0kL8b6g&oe=637109CF"
+                ]
+            },
+            "last_updated": 1656239407
+        },
+        "76": {
+            "title": "Burnout",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-15/291681439_735504044362665_5351146394327302934_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=fxOj_TNmV_gAX9k9DPZ&_nc_ht=scontent-lax3-1.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfDlNDxInV-K5WrvdLsOrQRVb37ASr947EAG_vbtAAXF0Q&oe=6370A4AB"
+                ]
+            },
+            "last_updated": 1656844204
+        },
+        "77": {
+            "title": "Procrastination",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-15/292860380_162315559679062_383962527243638427_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=T7N-jMPQNGIAX9fwSFs&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfBs4tGDK08nT_zBiIhyhEGrCuhc8CBhdD1FyOzzthBOyQ&oe=63708916"
+                ]
+            },
+            "last_updated": 1657622487
+        },
+        "78": {
+            "title": "Consequences",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-15/294038645_743268290156802_1582275059214823613_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=qUhQejqvOBYAX8x1nPR&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfDqJR8OCRmH02DcmbLqRaF1g-wfg5CmnpwoJWno9a1GUg&oe=6371F440"
+                ]
+            },
+            "last_updated": 1658053807
+        },
+        "79": {
+            "title": "Apathy",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-15/295715345_409802077630419_392335728022747718_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=BS6W9CbHMOsAX8CaxJN&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfDSIP9uck9V0QJWE4RWMPoQGPIa6VISsWxXbEvXc-szxQ&oe=63714997"
+                ]
+            },
+            "last_updated": 1658658604
+        },
+        "80": {
+            "title": "Sleep deprivation",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-15/296605182_377718721141009_4602526477747561574_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=nKdcNOtQpC8AX9c_0mf&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfChShnsnoOPRr1xfT4N1MDvi7tQI-YVHkcpXSV6_gaenw&oe=63721784"
+                ]
+            },
+            "last_updated": 1659263405
+        },
+        "81": {
+            "title": "The follow-up",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-15/298333099_1983904738461983_6296368673352149247_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=hfzohPW0wr8AX-f25_W&_nc_ht=scontent-lax3-1.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfCtNiew9pb83HrASKgi65f4G2ijK2JDy0EnqR8noVb96A&oe=63726AAA"
+                ]
+            },
+            "last_updated": 1659868207
+        },
+        "82": {
+            "title": "The void",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-15/298985215_1069635703945543_9218978346325149279_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=7ebObWjPAtAAX-MyRlq&_nc_ht=scontent-lax3-1.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfDv7hacsVdqihSDATgCz0Wuj0RP4OSiWqWAHpxnfKkGsA&oe=63713F0F"
+                ]
+            },
+            "last_updated": 1660473004
+        },
+        "83": {
+            "title": "Follow through",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-15/300154031_1075645059778735_8648980877323085905_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=NnGj40bkk6kAX-IWnz8&_nc_ht=scontent-lax3-1.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfDD9rLyySjn4ZojmlUXA_CwqZ6QeIMFoZnElQH5AEyKBA&oe=6371A4B2"
+                ]
+            },
+            "last_updated": 1661077850
+        },
+        "84": {
+            "title": "Okay? Thanks.",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.29350-15/301672385_2237215623103499_1545743105710798409_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=ukJ8iszCJpAAX-x9yMb&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfAJEcaku4nwtHvR1aYP-LPrfy_ybqr9JrVP2aL-BQ695Q&oe=6371BA85"
+                ]
+            },
+            "last_updated": 1661686028
+        },
+        "85": {
+            "title": "Intrusive thoughts",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-15/286448013_485648636344412_8342350697005927291_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=he3YJMGYt1sAX94-QJM&_nc_ht=scontent-lax3-1.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfCTIWckVcI3NGw73e4a79xtXlwZq8IT2_kvg2RsZQ_O_A&oe=637131BB"
+                ]
+            },
+            "last_updated": 1662294859
+        },
+        "86": {
+            "title": "Mental notes",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-15/305871006_1653820498345429_5204313442727135637_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=kGQi85S_AmAAX8M_ar3&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfCNm5HzzlL5gbqNI5lc-gmxXZw49YXUrKOkrnKJeak7Rg&oe=637162EE"
+                ]
+            },
+            "last_updated": 1662892207
+        },
+        "87": {
+            "title": "The land before time (management)",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-15/307133941_135219125913147_2988081466302439173_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=55iKmqsqMI4AX-zR8Nz&_nc_ht=scontent-lax3-1.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfAdbRmLnmIsUAFgxgCejccl_QSNRDO46w10lhpwpjIKuQ&oe=63725266"
+                ]
+            },
+            "last_updated": 1663498230
+        },
+        "88": {
+            "title": "Today\u2019s the day",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-1.cdninstagram.com/v/t51.29350-15/308226912_101677612693010_7084927178985799820_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=kKd-cMxcYnAAX88X9kh&_nc_ht=scontent-lax3-1.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfA6YlW91Ovyx6mrsIRoSlxfTKxZULNaJot88g49GDBj9Q&oe=63719AB9"
+                ]
+            },
+            "last_updated": 1664040856
+        },
+        "89": {
+            "title": "Deliverance",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-15/310204376_878776909769333_666064345639219004_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=6ofqjGedG9YAX_SUWAh&_nc_ht=scontent-lax3-1.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfA3J-4gWDzEAz--UDsNATuo0sLqSVTKpocfunEEUL0Ctw&oe=6371CE9D"
+                ]
+            },
+            "last_updated": 1664706608
+        },
+        "90": {
+            "title": "The doubt sprout\u2122",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-15/310813499_114589484747268_213372346638506413_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=uWoD1A8OLp4AX9W7Yuo&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfD1L41Qfw4MMwaR3J5bs8VIcWjbtM4g23gLC842Wuy0NQ&oe=6371FBC7"
+                ]
+            },
+            "last_updated": 1665307805
+        },
+        "91": {
+            "title": "A brainy blunder",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-15/311852229_164065552936622_4975308297909164549_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=C7B1_qSDAeYAX90Syg-&_nc_ht=scontent-lax3-1.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfD8fnOMT5gcFHNLk-OwYs7Rb2PIG4GZBjtgQjZrGLakiQ&oe=6370C8EC"
+                ]
+            },
+            "last_updated": 1665916208
+        },
+        "92": {
+            "title": "Memory (loss)",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-15/312468338_1280941382663702_6360685676526862589_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=bCkGPhdi15wAX_1ewaU&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfDSQld-wu7gOtqsekYoQ6nYIJ5rZc0X0HAcVGHa2oFjBA&oe=6370A57B"
+                ]
+            },
+            "last_updated": 1666518754
+        },
+        "93": {
+            "title": "Task initiation",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-15/313095474_1149102672664153_1211602873470884217_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=dB5f1foBtpkAX_kK9vz&_nc_ht=scontent-lax3-1.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfByP5ftCK-nDtSaZQgbYYsb5eIzwpcbTZAw4F16fmV6XA&oe=6370EFC0"
+                ]
+            },
+            "last_updated": 1667125805
+        },
+        "94": {
+            "title": "Priorities",
+            "groups": {
+                "ADHDinos": [
+                    "https://scontent-lax3-2.cdninstagram.com/v/t51.29350-15/313299359_1094805034540500_4249744489207286408_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=oWe3rQI8Ak8AX9Jk8cb&_nc_ht=scontent-lax3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfB08n1M6vtmhIjKFgW9CCJMXI-MXu-fgTrx1WMtVmPWiA&oe=6370F01C"
+                ]
+            },
+            "last_updated": 1667740205
+        }
+    }
+}
