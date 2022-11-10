@@ -40,7 +40,7 @@ for n, e in enumerate(reversed(entries), start=1):
     }
 
 cubari = {
-    "$schema": "../../schema/cubari/gistSource.schema.json",
+    "$schema": "../../../schema/cubari/gistSource.schema.json",
     "title": "ADHDinos",
     "description": "Hyper-focus passion project",
     "artist": "Ryan Keats",
@@ -49,5 +49,5 @@ cubari = {
     "chapters": chapters,
 }
 
-with open("series/ADHDinos/cubari.json", "w") as f:
+with open("series/Ryan Keats/ADHDinos/cubari.json", "w") as f:
     json.dump(cubari, f, indent=4)
