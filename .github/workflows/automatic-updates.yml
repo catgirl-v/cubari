@@ -14,8 +14,7 @@ jobs:
     - name: Install packages
       run: |
         sudo apt-get update
-        sudo apt-get install -y --no-install-recommends jq
-        pip3 install requests
+        sudo apt-get install -y --no-install-recommends jq python3-requests
 
     - name: Checkout repo
       uses: actions/checkout@v3
