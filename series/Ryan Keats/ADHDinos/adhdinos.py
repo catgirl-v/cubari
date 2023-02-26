@@ -1,42 +1,44 @@
 #!/usr/bin/env python3
 
 import json
-import re
 
 import requests
 
-url = "https://www.adhdinos.com/app/cms/api/v1/instagram/6a009cb0-f892-11ec-802a-3f8c5f149c9a/assets"
+url = "https://www.reddit.com/r/ADHDinos/new.json"
 
 entries = []
 
-max_id = None
+after = None
 while True:
     params = {
-        "per_page": 128,
-        "max_id": max_id,
-        "show_hidden": 0,
+        "limit": 100,
+        "after": after,
     }
-    response = requests.get(url, params=params).json()
+    headers = { "User-Agent": "catgirl-v:cubari:v.0.0.69 (by the cg-v gang)" }
+    response = requests.get(url, params=params, headers=headers).json()
 
-    entries.extend(response["assets"])
+    entries.extend(response["data"]["children"])
 
-    if max_id := response.get("next_max_id") is None:
+    if (after := response["data"].get("after")) is None:
         break
 
+entries = (e["data"] for e in reversed(entries) if not e["data"]["is_self"])
 chapters = {}
-hashtag = re.compile(r"#+\w+")
-for n, e in enumerate(reversed(entries), start=1):
-    title = e["caption"]
-    title = hashtag.sub("", title).strip()
+for n, e in enumerate(entries, start=1):
+    url = e["url"]
+    if (secure_media := e.get("secure_media")) is not None:
+        if (reddit_video := secure_media.get("reddit_video")) is not None:
+            if reddit_video["is_gif"]:
+                url = reddit_video["fallback_url"]
 
     chapters[str(n)] = {
-        "title": title,
+        "title": e["title"],
         "groups": {
             "ADHDinos": [
-                e["images"]["standard_resolution"]["url"]
+                url,
             ],
         },
-        "last_updated": e["created_time"],
+        "last_updated": int(e["created"]),
     }
 
 cubari = {
@@ -45,7 +47,8 @@ cubari = {
     "description": "Hyper-focus passion project",
     "artist": "Ryan Keats",
     "author": "Ryan Keats",
-    "cover": "https://www.adhdinos.com/uploads/b/b99aff1c958ec1cc221603a698845af861565547d6d17b41f7c115dd4ff8e789/longnecksitblack_1657040274.png",
+    # Source: https://styles.redditmedia.com/t5_5g4wwf/styles/communityIcon_wkgsxbyp4z381.jpg
+    "cover": "https://i.imgur.com/fChFbgD.jpg",
     "chapters": chapters,
 }
 
