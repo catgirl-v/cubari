@@ -11,6 +11,7 @@ entries = []
 after = None
 while True:
     params = {
+        "raw_json": 1,
         "limit": 100,
         "after": after,
     }
