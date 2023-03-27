@@ -26,18 +26,24 @@ while True:
 entries = (e["data"] for e in reversed(entries) if not e["data"]["is_self"])
 chapters = {}
 for n, e in enumerate(entries, start=1):
-    url = e["url"]
+    urls = [e["url"]]
     if (secure_media := e.get("secure_media")) is not None:
         if (reddit_video := secure_media.get("reddit_video")) is not None:
             if reddit_video["is_gif"]:
-                url = reddit_video["fallback_url"]
+                urls = [reddit_video["fallback_url"]]
+
+    if e.get("is_gallery"):
+        urls = []
+        gallery_data = e["gallery_data"]
+        media_metadata = e["media_metadata"]
+        for i in gallery_data["items"]:
+            media = media_metadata[i["media_id"]]
+            urls.append(media["s"]["u"])
 
     chapters[str(n)] = {
         "title": e["title"],
         "groups": {
-            "ADHDinos": [
-                url,
-            ],
+            "ADHDinos": urls,
         },
         "last_updated": int(e["created"]),
     }
