@@ -24,7 +24,7 @@ jobs:
     - name: Checkout twint
       uses: actions/checkout@v3
       with:
-        repository: woluxwolu/twint
+        repository: catgirl-v/twint
         path: twint
 
     - name: Install twint
@@ -32,6 +32,8 @@ jobs:
       working-directory: twint
 
     - name: Run update script
+      env:
+        TWITTER_AUTH_TOKEN: ${{ secrets.TWITTER_AUTH_TOKEN }}
       run: ./update_series.sh
 
     - name: Commit changes
