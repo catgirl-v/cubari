@@ -1,12 +1,12 @@
 #!/bin/sh
-set -e
+set -xe
 
 new_tweets=$(mktemp --suffix=".fawnduu.jsonl")
 all_tweets="series/Fawnduu/tweets.jsonl"
 
 # Fetch new tweets
 since="$(jq -sr 'last.created_at' "${all_tweets}")"
-twint --utc --full-text -u "Fawnduu" --since "${since% UTC}" --json --hide-output -o "${new_tweets}" --count --auth-token "$TWITTER_AUTH_TOKEN"
+twint --utc --full-text -u "Fawnduu" --since "${since% UTC}" --json --hide-output -o "${new_tweets}" --count
 # FIXME this ignores tweets with the same date as the latest indexed tweet,
 # but ideally we'd like to deduplicate on tweet IDs instead
 jq -sc --arg since "${since}" 'reverse[] | select(.created_at != $since)' "${new_tweets}" >> "${all_tweets}"
