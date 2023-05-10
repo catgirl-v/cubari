@@ -28,7 +28,7 @@ jobs:
         path: twint
 
     - name: Install twint
-      run: pip3 install . -r requirements.txt
+      run: pip3 install -e .
       working-directory: twint
 
     - name: Run update script
