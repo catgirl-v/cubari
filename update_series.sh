@@ -6,11 +6,11 @@ all_tweets="series/Fawnduu/tweets.jsonl"
 
 # Fetch new tweets
 since="$(jq -sr 'last.created_at' "${all_tweets}")"
-twint --utc --full-text -u "Fawnduu" --since "${since% UTC}" --json --hide-output -o "${new_tweets}" --count
+#twint --utc --full-text -u "Fawnduu" --since "${since% UTC}" --json --hide-output -o "${new_tweets}" --count
 # FIXME this ignores tweets with the same date as the latest indexed tweet,
 # but ideally we'd like to deduplicate on tweet IDs instead
-jq -sc --arg since "${since}" 'reverse[] | select(.created_at != $since)' "${new_tweets}" >> "${all_tweets}"
-rm "${new_tweets}"
+#jq -sc --arg since "${since}" 'reverse[] | select(.created_at != $since)' "${new_tweets}" >> "${all_tweets}"
+#rm "${new_tweets}"
 
 # Filter tweets from the My Dragon Girlfriend thread and generate cubari.json
 my_dragon_gf="series/Fawnduu/My Dragon Girlfriend"
