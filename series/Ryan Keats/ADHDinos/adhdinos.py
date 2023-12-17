@@ -4,7 +4,7 @@ import json
 
 import requests
 
-url = "https://www.reddit.com/r/ADHDinos/new.json"
+url = "https://old.reddit.com/r/ADHDinos/new.json"
 
 entries = []
 
