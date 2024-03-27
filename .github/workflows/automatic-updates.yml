@@ -21,15 +21,15 @@ jobs:
       with:
         fetch-depth: 0
 
-    - name: Checkout twint
-      uses: actions/checkout@v3
-      with:
-        repository: catgirl-v/twint
-        path: twint
+          #- name: Checkout twint
+          #  uses: actions/checkout@v3
+          #  with:
+          #    repository: catgirl-v/twint
+          #    path: twint
 
-    - name: Install twint
-      run: pip3 install -e .
-      working-directory: twint
+          #- name: Install twint
+          #  run: pip3 install -e .
+          #  working-directory: twint
 
     - name: Run update script
       env:
