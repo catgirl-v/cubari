@@ -34,6 +34,10 @@ jobs:
     - name: Run update script
       env:
         TWITTER_AUTH_TOKEN: ${{ secrets.TWITTER_AUTH_TOKEN }}
+        REDDIT_USER: ${{ secrets.REDDIT_USER }}
+        REDDIT_PASSWD: '${{ secrets.REDDIT_PASSWD }}'
+        REDDIT_ID: ${{ secrets.REDDIT_ID }}
+        REDDIT_SECRET: ${{ secrets.REDDIT_SECRET }}
       run: ./update_series.sh
 
     - name: Commit changes
