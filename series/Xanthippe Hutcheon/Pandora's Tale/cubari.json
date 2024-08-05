@@ -1,0 +1,19 @@
+{
+    "$schema": "../../../schema/cubari/gistSource.schema.json",
+    "title": "Pandora's Tale",
+    "description": "\"What am I for?\"\n\nPandora was a girl created to serve. She wasn\u2019t supposed to want more. She wasn\u2019t supposed to think for herself. She wasn\u2019t supposed to fight back.\n\nShe wasn\u2019t supposed to be a girl.",
+    "artist": "Xanthippe Hutcheon",
+    "author": "Xanthippe Hutcheon",
+    "cover": "https://pandorastale.com/wp-content/uploads/2019/10/1-0-1.png",
+    "chapters": {
+        "1": {
+            "title": "Chapter 11, page 19",
+            "groups": {
+                "Xan": [
+                    "https://pandorastale.com/wp-content/uploads/2024/06/11-19.png"
+                ]
+            },
+            "last_updated": 1722859200
+        }
+    }
+}
