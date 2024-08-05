@@ -17,5 +17,6 @@ my_dragon_gf="series/Fawnduu/My Dragon Girlfriend"
 jq -c "select(.conversation_id == \"914484965215227904\" or .conversation_id == \"914854813694693378\" or .conversation_id == \"915276793766170626\") | del((.language | select(. == \"en\")), .date, .time, .timezone, (.[] | select(. == \"\" or . == [])))" "${all_tweets}" > "${my_dragon_gf}/tweets.jsonl"
 jq -sf "${my_dragon_gf}/cubari.jq" "${my_dragon_gf}/tweets.jsonl" > "${my_dragon_gf}/cubari.json"
 
-# Scrape ADHDinos
+# Run other scrapers
 ./series/Ryan\ Keats/ADHDinos/adhdinos.py
+./series/Xanthippe\ Hutcheon/Pandora\'s\ Tale/pandora.py
