@@ -57,11 +57,10 @@ for p in iter_feed():
         "last_updated": max(published, updated),
     }
 
+chapters = dict(sorted(chapters.items(), key=lambda kv: int(kv[0])))
 save_json(chapters, chapters_file)
 
-chapters = sorted(chapters.items(), key=lambda kv: int(kv[0]))
-chapters = {str(n): c for n, (_, c) in enumerate(chapters, start=1)}
-
+chapters = {str(n): c for n, (_, c) in enumerate(chapters.items(), start=1)}
 cubari = {
     "$schema": "../../../schema/cubari/gistSource.schema.json",
     "title": "Pandora's Tale",
