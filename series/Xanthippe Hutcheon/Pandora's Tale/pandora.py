@@ -59,7 +59,7 @@ for p in iter_feed():
 
 save_json(chapters, chapters_file)
 
-chapters = sorted(chapters.items(), key=operator.itemgetter(0))
+chapters = sorted(chapters.items(), key=lambda kv: int(kv[0]))
 chapters = {str(n): c for n, (_, c) in enumerate(chapters, start=1)}
 
 cubari = {
