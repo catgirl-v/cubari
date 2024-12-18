@@ -15,7 +15,7 @@
   ; "msi"), {})) as $tweetCaptures |
   {cubariVolume: .cubariVolume, cubariChapter: .cubariChapter} + $tweet | . + {
     "tweet": ($tweetCaptures.tweet? // .tweet),
-    "cubariChapter": ($tweetCaptures.chapterP? // $tweetCaptures.chapter? // (.cubariChapter | sub("(?:\\.(?<subchapter>\\d+))?$"; ".\((.subchapter // 0 | tonumber) + 1)"))),
+    "cubariChapter": ($tweetCaptures.chapterP? // $tweetCaptures.chapter? // (.cubariChapter | sub("(?:\\.(?<subchapter>\\d+))?$"; ".\(((.subchapter | tonumber?) // 0) + 1)"))),
     "cubariTitle": $tweetCaptures.title?,
   } | $chapterVolume[.cubariChapter]? as $volume | if $volume != null then . + {
     "cubariVolume": $volume,
