@@ -62,7 +62,11 @@ for n, e in enumerate(entries, start=1):
         media_metadata = e["media_metadata"]
         for i in gallery_data["items"]:
             media = media_metadata[i["media_id"]]
-            urls.append(media["s"]["u"])
+            source = media["s"]
+            if gif := source.get("gif"):
+                urls.append(gif)
+            else:
+                urls.append(source["u"])
 
     chapters[str(n)] = {
         "title": e["title"],
