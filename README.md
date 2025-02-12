@@ -10,6 +10,9 @@ Enjoy!
 + [Ryan Keats - ADHDinos][ADHDinos]
   + [Cubari][ADHDinos/Cubari]
   + [gist source][ADHDinos/cubari.json]
++ [Ryan Keats - ADHDinos (Tinyview)][ADHDinos_tinyview]
+  + [Cubari][ADHDinos_tinyview/Cubari]
+  + [gist source][ADHDinos_tinyview/cubari.json]
 + [Xanthippe Hutcheon - Pandora's Tale][Pandora]
   + [Cubari][Pandora/Cubari]
   + [gist source][Pandora/cubari.json]
@@ -21,6 +24,10 @@ Enjoy!
 [ADHDinos]: https://www.adhdinos.com/
 [ADHDinos/Cubari]: https://cubari.moe/read/gist/cmF3L2NhdGdpcmwtdi9jdWJhcmkvZC9jYXRnaXJsLXYvbWFpbi9zZXJpZXMvUnlhbiUyMEtlYXRzL0FESERpbm9zL2N1YmFyaS5qc29u/
 [ADHDinos/cubari.json]: https://raw.githubusercontent.com/catgirl-v/cubari/d/catgirl-v/main/series/Ryan%20Keats/ADHDinos/cubari.json
+
+[ADHDinos_tinyview]: https://tinyview.com/adhdinos
+[ADHDinos_tinyview/Cubari]: https://cubari.moe/read/gist/cmF3L2NhdGdpcmwtdi9jdWJhcmkvZC9jYXRnaXJsLXYvbWFpbi9zZXJpZXMvUnlhbiUyMEtlYXRzL0FESERpbm9zX3Rpbnl2aWV3L2N1YmFyaS5qc29u/
+[ADHDinos_tinyview/cubari.json]: https://raw.githubusercontent.com/catgirl-v/cubari/d/catgirl-v/main/series/Ryan%20Keats/ADHDinos_tinyview/cubari.json
 
 [Pandora]: https://pandorastale.com/
 [Pandora/Cubari]: https://cubari.moe/read/gist/cmF3L2NhdGdpcmwtdi9jdWJhcmkvZC9jYXRnaXJsLXYvbWFpbi9zZXJpZXMvWGFudGhpcHBlJTIwSHV0Y2hlb24vUGFuZG9yYSdzJTIwVGFsZS9jdWJhcmkuanNvbg/
