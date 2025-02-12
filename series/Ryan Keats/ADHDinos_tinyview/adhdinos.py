@@ -86,7 +86,7 @@ for n, e in enumerate(reversed(entries), start=1):
 
         urls.append({
             "description": authors_note,
-            "url": "https://fakeimg.pl/1500x2126/ffffff/000000/?" + urllib.parse.urlencode({
+            "src": "https://fakeimg.pl/1500x2126/ffffff/000000/?" + urllib.parse.urlencode({
                 "font": "noto",
                 "font_size": 42,
                 "text": wrapped.read().strip(),

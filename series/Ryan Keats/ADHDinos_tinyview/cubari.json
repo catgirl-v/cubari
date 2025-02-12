@@ -18,7 +18,7 @@
                     "https://cdn.tinyview.com/adhdinos/2025/01/08/deadline-inspector/Frame-5-Full-comic.jpg",
                     {
                         "description": "Do not pass go. Do not collect $200",
-                        "url": "https://fakeimg.pl/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Do+not+pass+go.+Do+not+collect+%0A%24200"
+                        "src": "https://fakeimg.pl/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Do+not+pass+go.+Do+not+collect+%0A%24200"
                     }
                 ]
             },
@@ -36,7 +36,7 @@
                     "https://cdn.tinyview.com/adhdinos/2025/01/11/con-versations/5.jpg",
                     {
                         "description": "Based on several true stories",
-                        "url": "https://fakeimg.pl/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Based+on+several+true+stories"
+                        "src": "https://fakeimg.pl/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Based+on+several+true+stories"
                     }
                 ]
             },
@@ -54,7 +54,7 @@
                     "https://cdn.tinyview.com/adhdinos/2025/01/14/todays-the-day/Format_0000_5.jpg",
                     {
                         "description": "I await the stress-induced adrenaline. Any day, now.",
-                        "url": "https://fakeimg.pl/1500x2126/ffffff/000000/?font=noto&font_size=42&text=I+await+the+stress-induced+%0Aadrenaline.+Any+day%2C+now."
+                        "src": "https://fakeimg.pl/1500x2126/ffffff/000000/?font=noto&font_size=42&text=I+await+the+stress-induced+%0Aadrenaline.+Any+day%2C+now."
                     }
                 ]
             },
@@ -72,7 +72,7 @@
                     "https://cdn.tinyview.com/adhdinos/2025/01/16/a-small-oversight/5.jpg",
                     {
                         "description": "The best offense is going straight to problematic defensiveness, I think!",
-                        "url": "https://fakeimg.pl/1500x2126/ffffff/000000/?font=noto&font_size=42&text=The+best+offense+is+going+%0Astraight+to+problematic+defensiveness%2C+%0AI+think%21"
+                        "src": "https://fakeimg.pl/1500x2126/ffffff/000000/?font=noto&font_size=42&text=The+best+offense+is+going+%0Astraight+to+problematic+defensiveness%2C+%0AI+think%21"
                     }
                 ]
             },
@@ -90,7 +90,7 @@
                     "https://cdn.tinyview.com/adhdinos/2025/01/18/consulting-a-specialist/5.jpg",
                     {
                         "description": "It just seems like a lot of work!",
-                        "url": "https://fakeimg.pl/1500x2126/ffffff/000000/?font=noto&font_size=42&text=It+just+seems+like+a+lot+of+%0Awork%21"
+                        "src": "https://fakeimg.pl/1500x2126/ffffff/000000/?font=noto&font_size=42&text=It+just+seems+like+a+lot+of+%0Awork%21"
                     }
                 ]
             },
@@ -108,7 +108,7 @@
                     "https://cdn.tinyview.com/adhdinos/2025/01/21/motivation/Format_0004_5.jpg",
                     {
                         "description": "Today, Dino weaponizes stress",
-                        "url": "https://fakeimg.pl/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Today%2C+Dino+weaponizes+stress"
+                        "src": "https://fakeimg.pl/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Today%2C+Dino+weaponizes+stress"
                     }
                 ]
             },
@@ -126,7 +126,7 @@
                     "https://cdn.tinyview.com/adhdinos/2025/01/23/mid-burnout-priorities/5.jpg",
                     {
                         "description": "Brain makes an executive decision",
-                        "url": "https://fakeimg.pl/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Brain+makes+an+executive+decision"
+                        "src": "https://fakeimg.pl/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Brain+makes+an+executive+decision"
                     }
                 ]
             },
@@ -144,7 +144,7 @@
                     "https://cdn.tinyview.com/adhdinos/2025/01/25/first-impressions/5.jpg",
                     {
                         "description": "Today, Brain makes a friend",
-                        "url": "https://fakeimg.pl/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Today%2C+Brain+makes+a+friend"
+                        "src": "https://fakeimg.pl/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Today%2C+Brain+makes+a+friend"
                     }
                 ]
             },
@@ -162,7 +162,7 @@
                     "https://cdn.tinyview.com/adhdinos/2025/01/29/anxiety-wreck/5.jpg",
                     {
                         "description": "He's a bit nervous",
-                        "url": "https://fakeimg.pl/1500x2126/ffffff/000000/?font=noto&font_size=42&text=He%27s+a+bit+nervous"
+                        "src": "https://fakeimg.pl/1500x2126/ffffff/000000/?font=noto&font_size=42&text=He%27s+a+bit+nervous"
                     }
                 ]
             },
@@ -180,7 +180,7 @@
                     "https://cdn.tinyview.com/adhdinos/2025/01/30/cause-and-effect/5.jpg",
                     {
                         "description": "You never know until you (don't) try",
-                        "url": "https://fakeimg.pl/1500x2126/ffffff/000000/?font=noto&font_size=42&text=You+never+know+until+you+%28don%27t%29+%0Atry"
+                        "src": "https://fakeimg.pl/1500x2126/ffffff/000000/?font=noto&font_size=42&text=You+never+know+until+you+%28don%27t%29+%0Atry"
                     }
                 ]
             },
@@ -198,7 +198,7 @@
                     "https://cdn.tinyview.com/adhdinos/2025/02/01/it-s-relative/5.jpg",
                     {
                         "description": "Moving in the right direction is progress!",
-                        "url": "https://fakeimg.pl/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Moving+in+the+right+direction+%0Ais+progress%21"
+                        "src": "https://fakeimg.pl/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Moving+in+the+right+direction+%0Ais+progress%21"
                     }
                 ]
             },
@@ -216,7 +216,7 @@
                     "https://cdn.tinyview.com/adhdinos/2025/02/04/a-bad-influence/5.jpg",
                     {
                         "description": "Brain, solving problems",
-                        "url": "https://fakeimg.pl/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Brain%2C+solving+problems"
+                        "src": "https://fakeimg.pl/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Brain%2C+solving+problems"
                     }
                 ]
             },
@@ -234,7 +234,7 @@
                     "https://cdn.tinyview.com/adhdinos/2025/02/06/the-list/Excl-1-5.jpg",
                     {
                         "description": "Today, Dino earns a sense of accomplishment",
-                        "url": "https://fakeimg.pl/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Today%2C+Dino+earns+a+sense+%0Aof+accomplishment"
+                        "src": "https://fakeimg.pl/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Today%2C+Dino+earns+a+sense+%0Aof+accomplishment"
                     }
                 ]
             },
@@ -252,7 +252,7 @@
                     "https://cdn.tinyview.com/adhdinos/2025/02/08/perseverance/FIX.5.jpg",
                     {
                         "description": "A dino in the wild",
-                        "url": "https://fakeimg.pl/1500x2126/ffffff/000000/?font=noto&font_size=42&text=A+dino+in+the+wild"
+                        "src": "https://fakeimg.pl/1500x2126/ffffff/000000/?font=noto&font_size=42&text=A+dino+in+the+wild"
                     }
                 ]
             },
