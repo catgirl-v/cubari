@@ -98,7 +98,7 @@ for n, e in enumerate(reversed(entries), start=1):
         "groups": {
             "ADHDinos": urls,
         },
-        "last_updated": e["createdAt"], # also index["datetime"] (ISO 8601)
+        "last_updated": int(e["createdAt"] / 1000), # also index["datetime"] (ISO 8601)
     }
 
 cubari = {
