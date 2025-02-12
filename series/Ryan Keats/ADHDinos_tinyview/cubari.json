@@ -1,0 +1,262 @@
+{
+    "$schema": "../../../schema/cubari/gistSource.schema.json",
+    "title": "ADHDinos (Tinyview)",
+    "description": "ADHDinos is a webcomic following Dino the Brontosaurus and his misadventures in mental health.",
+    "artist": "Ryan Keats",
+    "author": "Ryan Keats",
+    "cover": "https://i.imgur.com/fChFbgD.jpg",
+    "chapters": {
+        "1": {
+            "title": "Deadline Inspector",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/01/08/deadline-inspector/Comic_Banner_800x420.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/01/08/deadline-inspector/Frame-1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/01/08/deadline-inspector/Frame-2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/01/08/deadline-inspector/Frame-3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/01/08/deadline-inspector/Frame-4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/01/08/deadline-inspector/Frame-5-Full-comic.jpg",
+                    {
+                        "description": "Do not pass go. Do not collect $200",
+                        "url": "https://fakeimg.pl/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Do+not+pass+go.+Do+not+collect+%0A%24200"
+                    }
+                ]
+            },
+            "last_updated": 1736400060000
+        },
+        "2": {
+            "title": "Con-Versations",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/01/11/con-versations/Banners.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/01/11/con-versations/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/01/11/con-versations/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/01/11/con-versations/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/01/11/con-versations/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/01/11/con-versations/5.jpg",
+                    {
+                        "description": "Based on several true stories",
+                        "url": "https://fakeimg.pl/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Based+on+several+true+stories"
+                    }
+                ]
+            },
+            "last_updated": 1736645280000
+        },
+        "3": {
+            "title": "Today's the day",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/01/14/todays-the-day/Banners.1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/01/14/todays-the-day/Format_0004_1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/01/14/todays-the-day/Format_0003_2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/01/14/todays-the-day/Format_0002_3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/01/14/todays-the-day/Format_0001_4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/01/14/todays-the-day/Format_0000_5.jpg",
+                    {
+                        "description": "I await the stress-induced adrenaline. Any day, now.",
+                        "url": "https://fakeimg.pl/1500x2126/ffffff/000000/?font=noto&font_size=42&text=I+await+the+stress-induced+%0Aadrenaline.+Any+day%2C+now."
+                    }
+                ]
+            },
+            "last_updated": 1736871660000
+        },
+        "4": {
+            "title": "A small oversight",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/01/16/a-small-oversight/Banners.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/01/16/a-small-oversight/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/01/16/a-small-oversight/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/01/16/a-small-oversight/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/01/16/a-small-oversight/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/01/16/a-small-oversight/5.jpg",
+                    {
+                        "description": "The best offense is going straight to problematic defensiveness, I think!",
+                        "url": "https://fakeimg.pl/1500x2126/ffffff/000000/?font=noto&font_size=42&text=The+best+offense+is+going+%0Astraight+to+problematic+defensiveness%2C+%0AI+think%21"
+                    }
+                ]
+            },
+            "last_updated": 1737088380000
+        },
+        "5": {
+            "title": "Consulting a specialist",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/01/18/consulting-a-specialist/Banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/01/18/consulting-a-specialist/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/01/18/consulting-a-specialist/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/01/18/consulting-a-specialist/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/01/18/consulting-a-specialist/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/01/18/consulting-a-specialist/5.jpg",
+                    {
+                        "description": "It just seems like a lot of work!",
+                        "url": "https://fakeimg.pl/1500x2126/ffffff/000000/?font=noto&font_size=42&text=It+just+seems+like+a+lot+of+%0Awork%21"
+                    }
+                ]
+            },
+            "last_updated": 1737235320000
+        },
+        "6": {
+            "title": "Motivation",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/01/21/motivation/Banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/01/21/motivation/Format_0003_1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/01/21/motivation/Format_0002_2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/01/21/motivation/Format_0001_3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/01/21/motivation/Format_0000_4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/01/21/motivation/Format_0004_5.jpg",
+                    {
+                        "description": "Today, Dino weaponizes stress",
+                        "url": "https://fakeimg.pl/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Today%2C+Dino+weaponizes+stress"
+                    }
+                ]
+            },
+            "last_updated": 1737512880000
+        },
+        "7": {
+            "title": "Mid-Burnout Priorities",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/01/23/mid-burnout-priorities/Banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/01/23/mid-burnout-priorities/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/01/23/mid-burnout-priorities/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/01/23/mid-burnout-priorities/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/01/23/mid-burnout-priorities/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/01/23/mid-burnout-priorities/5.jpg",
+                    {
+                        "description": "Brain makes an executive decision",
+                        "url": "https://fakeimg.pl/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Brain+makes+an+executive+decision"
+                    }
+                ]
+            },
+            "last_updated": 1737665160000
+        },
+        "8": {
+            "title": "First Impressions",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/01/25/first-impressions/Banners.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/01/25/first-impressions/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/01/25/first-impressions/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/01/25/first-impressions/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/01/25/first-impressions/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/01/25/first-impressions/5.jpg",
+                    {
+                        "description": "Today, Brain makes a friend",
+                        "url": "https://fakeimg.pl/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Today%2C+Brain+makes+a+friend"
+                    }
+                ]
+            },
+            "last_updated": 1737857820000
+        },
+        "9": {
+            "title": "Anxiety-wreck",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/01/29/anxiety-wreck/Banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/01/29/anxiety-wreck/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/01/29/anxiety-wreck/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/01/29/anxiety-wreck/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/01/29/anxiety-wreck/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/01/29/anxiety-wreck/5.jpg",
+                    {
+                        "description": "He's a bit nervous",
+                        "url": "https://fakeimg.pl/1500x2126/ffffff/000000/?font=noto&font_size=42&text=He%27s+a+bit+nervous"
+                    }
+                ]
+            },
+            "last_updated": 1738200900000
+        },
+        "10": {
+            "title": "Cause and Effect",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/01/30/cause-and-effect/Banners.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/01/30/cause-and-effect/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/01/30/cause-and-effect/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/01/30/cause-and-effect/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/01/30/cause-and-effect/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/01/30/cause-and-effect/5.jpg",
+                    {
+                        "description": "You never know until you (don't) try",
+                        "url": "https://fakeimg.pl/1500x2126/ffffff/000000/?font=noto&font_size=42&text=You+never+know+until+you+%28don%27t%29+%0Atry"
+                    }
+                ]
+            },
+            "last_updated": 1738261140000
+        },
+        "11": {
+            "title": "It's Relative",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/02/01/it-s-relative/Banners.1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/02/01/it-s-relative/1.1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/02/01/it-s-relative/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/02/01/it-s-relative/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/02/01/it-s-relative/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/02/01/it-s-relative/5.jpg",
+                    {
+                        "description": "Moving in the right direction is progress!",
+                        "url": "https://fakeimg.pl/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Moving+in+the+right+direction+%0Ais+progress%21"
+                    }
+                ]
+            },
+            "last_updated": 1738461360000
+        },
+        "12": {
+            "title": "A Bad Influence",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/02/04/a-bad-influence/Banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/02/04/a-bad-influence/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/02/04/a-bad-influence/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/02/04/a-bad-influence/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/02/04/a-bad-influence/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/02/04/a-bad-influence/5.jpg",
+                    {
+                        "description": "Brain, solving problems",
+                        "url": "https://fakeimg.pl/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Brain%2C+solving+problems"
+                    }
+                ]
+            },
+            "last_updated": 1738699320000
+        },
+        "13": {
+            "title": "The list",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/02/06/the-list/Excl-1-B.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/02/06/the-list/Excl-1-1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/02/06/the-list/Excl-1-2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/02/06/the-list/Excl-1-3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/02/06/the-list/Excl-1-4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/02/06/the-list/Excl-1-5.jpg",
+                    {
+                        "description": "Today, Dino earns a sense of accomplishment",
+                        "url": "https://fakeimg.pl/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Today%2C+Dino+earns+a+sense+%0Aof+accomplishment"
+                    }
+                ]
+            },
+            "last_updated": 1738858200000
+        },
+        "14": {
+            "title": "Perseverance",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/02/08/perseverance/Main-2-B.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/02/08/perseverance/Main-2-1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/02/08/perseverance/Main-2-2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/02/08/perseverance/Main-2-3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/02/08/perseverance/Main-2-4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/02/08/perseverance/FIX.5.jpg",
+                    {
+                        "description": "A dino in the wild",
+                        "url": "https://fakeimg.pl/1500x2126/ffffff/000000/?font=noto&font_size=42&text=A+dino+in+the+wild"
+                    }
+                ]
+            },
+            "last_updated": 1739053920000
+        }
+    }
+}
