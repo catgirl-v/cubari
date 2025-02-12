@@ -47,6 +47,8 @@ jobs:
         REDDIT_PASSWD: '${{ secrets.REDDIT_PASSWD }}'
         REDDIT_ID: ${{ secrets.REDDIT_ID }}
         REDDIT_SECRET: ${{ secrets.REDDIT_SECRET }}
+        TINYVIEW_GOOGLEAPIS_KEY: ${{ secrets.TINYVIEW_GOOGLEAPIS_KEY }}
+        TINYVIEW_REFRESH_TOKEN: ${{ secrets.TINYVIEW_REFRESH_TOKEN }}
       run: ./update_series.sh
 
     - name: Commit changes

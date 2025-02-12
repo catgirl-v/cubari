@@ -78,7 +78,7 @@ for n, e in enumerate(entries, start=1):
 
 cubari = {
     "$schema": "../../../schema/cubari/gistSource.schema.json",
-    "title": "ADHDinos",
+    "title": "ADHDinos (reddit)",
     "description": "Hyper-focus passion project",
     "artist": "Ryan Keats",
     "author": "Ryan Keats",
