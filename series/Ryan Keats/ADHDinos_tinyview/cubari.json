@@ -257,6 +257,24 @@
                 ]
             },
             "last_updated": 1739053920
+        },
+        "15": {
+            "title": "Self-talk",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/02/12/self-talk/Rep-2-B.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/02/12/self-talk/Rep-2-1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/02/12/self-talk/Rep-2-2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/02/12/self-talk/Rep-2-3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/02/12/self-talk/Rep-2-4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/02/12/self-talk/Rep-2-5.jpg",
+                    {
+                        "description": "It's always good to have a little grace",
+                        "src": "https://fakeimg.pl/1500x2126/ffffff/000000/?font=noto&font_size=42&text=It%27s+always+good+to+have+a+%0Alittle+grace"
+                    }
+                ]
+            },
+            "last_updated": 1739398320
         }
     }
 }
