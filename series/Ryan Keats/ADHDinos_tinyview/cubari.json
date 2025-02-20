@@ -311,6 +311,24 @@
                 ]
             },
             "last_updated": 1739723820
+        },
+        "18": {
+            "title": "Intrusive thoughts",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/02/19/intrusive-thoughts/Banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/02/19/intrusive-thoughts/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/02/19/intrusive-thoughts/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/02/19/intrusive-thoughts/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/02/19/intrusive-thoughts/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/02/19/intrusive-thoughts/5.jpg",
+                    {
+                        "description": "Today, Brain conjures up some fun!",
+                        "src": "https://fakeimg.pl/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Today%2C+Brain+conjures+up+some+%0Afun%21"
+                    }
+                ]
+            },
+            "last_updated": 1740002760
         }
     }
 }
