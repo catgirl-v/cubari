@@ -347,6 +347,24 @@
                 ]
             },
             "last_updated": 1740094080
+        },
+        "20": {
+            "title": "Self-improvement",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/02/22/self-improvement/Banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/02/22/self-improvement/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/02/22/self-improvement/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/02/22/self-improvement/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/02/22/self-improvement/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/02/22/self-improvement/5.2.jpg",
+                    {
+                        "description": "That was just a bit taxing.",
+                        "src": "https://fakeimg.pl/1500x2126/ffffff/000000/?font=noto&font_size=42&text=That+was+just+a+bit+taxing."
+                    }
+                ]
+            },
+            "last_updated": 1740254760
         }
     }
 }
