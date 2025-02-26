@@ -365,6 +365,24 @@
                 ]
             },
             "last_updated": 1740254760
+        },
+        "21": {
+            "title": "Trying My Best",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/02/25/trying-my-best/Banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/02/25/trying-my-best/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/02/25/trying-my-best/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/02/25/trying-my-best/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/02/25/trying-my-best/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/02/25/trying-my-best/Format.jpg",
+                    {
+                        "description": "Today, Dino evaluates his self-worth",
+                        "src": "https://fakeimg.pl/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Today%2C+Dino+evaluates+his+%0Aself-worth"
+                    }
+                ]
+            },
+            "last_updated": 1740497940
         }
     }
 }
