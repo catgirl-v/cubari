@@ -383,6 +383,24 @@
                 ]
             },
             "last_updated": 1740497940
+        },
+        "22": {
+            "title": "Lightspeed",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/02/27/lightspeed/Banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/02/27/lightspeed/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/02/27/lightspeed/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/02/27/lightspeed/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/02/27/lightspeed/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/02/27/lightspeed/5.jpg",
+                    {
+                        "description": "Do not be alarmed.",
+                        "src": "https://fakeimg.pl/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Do+not+be+alarmed."
+                    }
+                ]
+            },
+            "last_updated": 1740697440
         }
     }
 }
