@@ -473,6 +473,24 @@
                 ]
             },
             "last_updated": 1741448940
+        },
+        "27": {
+            "title": "Precedence",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/03/12/precedence/Banners.3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/03/12/precedence/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/03/12/precedence/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/03/12/precedence/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/03/12/precedence/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/03/12/precedence/Format.jpg",
+                    {
+                        "description": "Brain's ranked them in order of \u2728shininess\u2728",
+                        "src": "https://fakeimg.pl/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Brain%27s+ranked+them+in+order+%0Aof+%E2%9C%A8shininess%E2%9C%A8"
+                    }
+                ]
+            },
+            "last_updated": 1741807980
         }
     }
 }
