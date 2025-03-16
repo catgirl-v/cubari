@@ -491,6 +491,24 @@
                 ]
             },
             "last_updated": 1741807980
+        },
+        "28": {
+            "title": "Kicking back",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/03/15/kicking-back/Banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/03/15/kicking-back/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/03/15/kicking-back/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/03/15/kicking-back/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/03/15/kicking-back/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/03/15/kicking-back/5.jpg",
+                    {
+                        "description": "It should be super simple",
+                        "src": "https://fakeimg.pl/1500x2126/ffffff/000000/?font=noto&font_size=42&text=It+should+be+super+simple"
+                    }
+                ]
+            },
+            "last_updated": 1742067000
         }
     }
 }
