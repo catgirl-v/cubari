@@ -509,6 +509,24 @@
                 ]
             },
             "last_updated": 1742067000
+        },
+        "29": {
+            "title": "Working it out",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/03/18/working-it-out/Banners.8.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/03/18/working-it-out/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/03/18/working-it-out/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/03/18/working-it-out/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/03/18/working-it-out/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/03/18/working-it-out/5.jpg",
+                    {
+                        "description": "Today, Dino finds himself in a bit of a vicious cycle.",
+                        "src": "https://fakeimg.pl/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Today%2C+Dino+finds+himself+%0Ain+a+bit+of+a+vicious+cycle."
+                    }
+                ]
+            },
+            "last_updated": 1742344800
         }
     }
 }
