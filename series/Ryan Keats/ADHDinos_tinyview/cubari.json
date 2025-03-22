@@ -527,6 +527,24 @@
                 ]
             },
             "last_updated": 1742344800
+        },
+        "30": {
+            "title": "Self Improvement",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/03/21/self-improvement/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/03/21/self-improvement/Format.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/03/21/self-improvement/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/03/21/self-improvement/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/03/21/self-improvement/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/03/21/self-improvement/5.jpg",
+                    {
+                        "description": "Today, Dino tackles a long-dreaded task",
+                        "src": "https://fakeimg.pl/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Today%2C+Dino+tackles+a+long-dreaded+%0Atask"
+                    }
+                ]
+            },
+            "last_updated": 1742586360
         }
     }
 }
