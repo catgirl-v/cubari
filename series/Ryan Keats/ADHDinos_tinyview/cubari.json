@@ -545,6 +545,24 @@
                 ]
             },
             "last_updated": 1742586360
+        },
+        "31": {
+            "title": "Coping Mechanisms",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/03/23/coping-mechanisms/Banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/03/23/coping-mechanisms/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/03/23/coping-mechanisms/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/03/23/coping-mechanisms/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/03/23/coping-mechanisms/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/03/23/coping-mechanisms/5.jpg",
+                    {
+                        "description": "Today, Dino & Brain select an impulse to lean on",
+                        "src": "https://fakeimg.pl/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Today%2C+Dino+%26+Brain+select+%0Aan+impulse+to+lean+on"
+                    }
+                ]
+            },
+            "last_updated": 1742749920
         }
     }
 }
