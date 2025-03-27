@@ -563,6 +563,24 @@
                 ]
             },
             "last_updated": 1742749920
+        },
+        "32": {
+            "title": "Hard reset",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/03/26/hard-reset/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/03/26/hard-reset/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/03/26/hard-reset/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/03/26/hard-reset/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/03/26/hard-reset/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/03/26/hard-reset/5.jpg",
+                    {
+                        "description": "Oops!... I think I'm in love.",
+                        "src": "https://fakeimg.pl/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Oops%21...+I+think+I%27m+in+love."
+                    }
+                ]
+            },
+            "last_updated": 1743011460
         }
     }
 }
