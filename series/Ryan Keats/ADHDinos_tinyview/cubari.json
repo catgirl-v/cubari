@@ -581,6 +581,24 @@
                 ]
             },
             "last_updated": 1743011460
+        },
+        "33": {
+            "title": "Practice makes... better",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/03/28/practice-makes-better/Banners.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/03/28/practice-makes-better/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/03/28/practice-makes-better/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/03/28/practice-makes-better/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/03/28/practice-makes-better/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/03/28/practice-makes-better/5.jpg",
+                    {
+                        "description": "Today, Dino seeks advice!",
+                        "src": "https://fakeimg.pl/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Today%2C+Dino+seeks+advice%21"
+                    }
+                ]
+            },
+            "last_updated": 1743179700
         }
     }
 }
