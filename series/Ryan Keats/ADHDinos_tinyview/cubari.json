@@ -617,6 +617,23 @@
                 ]
             },
             "last_updated": 1743439200
+        },
+        "35": {
+            "title": "Keeping it simple",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/04/02/keeping-it-simple/Banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/04/02/keeping-it-simple/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/04/02/keeping-it-simple/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/04/02/keeping-it-simple/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/04/02/keeping-it-simple/4.jpg",
+                    {
+                        "description": "Why overcomplicate things??",
+                        "src": "https://fakeimg.pl/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Why+overcomplicate+things%3F%3F"
+                    }
+                ]
+            },
+            "last_updated": 1743611820
         }
     }
 }
