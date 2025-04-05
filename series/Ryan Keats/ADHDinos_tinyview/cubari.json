@@ -634,6 +634,24 @@
                 ]
             },
             "last_updated": 1743611820
+        },
+        "36": {
+            "title": "The doubt sprout",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/04/04/the-doubt-sprout/Banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/04/04/the-doubt-sprout/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/04/04/the-doubt-sprout/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/04/04/the-doubt-sprout/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/04/04/the-doubt-sprout/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/04/04/the-doubt-sprout/5.jpg",
+                    {
+                        "description": "Anxiety-Rex does some gardening.",
+                        "src": "https://fakeimg.pl/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Anxiety-Rex+does+some+gardening."
+                    }
+                ]
+            },
+            "last_updated": 1743800580
         }
     }
 }
