@@ -652,6 +652,24 @@
                 ]
             },
             "last_updated": 1743800580
+        },
+        "37": {
+            "title": "Working on it",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/04/08/working-on-it/Banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/04/08/working-on-it/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/04/08/working-on-it/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/04/08/working-on-it/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/04/08/working-on-it/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/04/08/working-on-it/5.jpg",
+                    {
+                        "description": "Brain seeks a solution to the current conundrum",
+                        "src": "https://fakeimg.pl/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Brain+seeks+a+solution+to+%0Athe+current+conundrum"
+                    }
+                ]
+            },
+            "last_updated": 1744156080
         }
     }
 }
