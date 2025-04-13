@@ -688,6 +688,24 @@
                 ]
             },
             "last_updated": 1744291620
+        },
+        "39": {
+            "title": "A magic trick",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/04/12/a-magic-trick/Banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/04/12/a-magic-trick/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/04/12/a-magic-trick/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/04/12/a-magic-trick/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/04/12/a-magic-trick/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/04/12/a-magic-trick/Format.jpg",
+                    {
+                        "description": "*a cold wind howls*",
+                        "src": "https://fakeimg.pl/1500x2126/ffffff/000000/?font=noto&font_size=42&text=%2Aa+cold+wind+howls%2A"
+                    }
+                ]
+            },
+            "last_updated": 1744487820
         }
     }
 }
