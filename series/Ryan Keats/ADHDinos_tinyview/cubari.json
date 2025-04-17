@@ -706,6 +706,24 @@
                 ]
             },
             "last_updated": 1744487820
+        },
+        "40": {
+            "title": "Deciding factor",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/04/16/deciding-factor/Banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/04/16/deciding-factor/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/04/16/deciding-factor/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/04/16/deciding-factor/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/04/16/deciding-factor/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/04/16/deciding-factor/5.jpg",
+                    {
+                        "description": "Brain thinks it through",
+                        "src": "https://fakeimg.pl/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Brain+thinks+it+through"
+                    }
+                ]
+            },
+            "last_updated": 1744830000
         }
     }
 }
