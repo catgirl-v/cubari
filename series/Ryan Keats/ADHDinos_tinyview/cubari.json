@@ -742,6 +742,24 @@
                 ]
             },
             "last_updated": 1745330100
+        },
+        "42": {
+            "title": "A crossover episode",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/04/25/a-crossover-episode/Banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/04/25/a-crossover-episode/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/04/25/a-crossover-episode/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/04/25/a-crossover-episode/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/04/25/a-crossover-episode/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/04/25/a-crossover-episode/5.jpg",
+                    {
+                        "description": "It's better to do nothing at all than try & fail, I'm told! \n\nThis was a recent crossover with a comic artist named Asliceofalan!",
+                        "src": "https://fakeimg.pl/1500x2126/ffffff/000000/?font=noto&font_size=42&text=It%27s+better+to+do+nothing+%0Aat+all+than+try+%26+fail%2C+I%27m+%0Atold%21+%0A%0AThis+was+a+recent+%0Acrossover+with+a+comic+artist+%0Anamed+Asliceofalan%21"
+                    }
+                ]
+            },
+            "last_updated": 1745612460
         }
     }
 }
