@@ -778,6 +778,24 @@
                 ]
             },
             "last_updated": 1745865300
+        },
+        "44": {
+            "title": "Dedication",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/04/30/dedication/Banners.7.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/04/30/dedication/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/04/30/dedication/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/04/30/dedication/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/04/30/dedication/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/04/30/dedication/5.jpg",
+                    {
+                        "description": "I don't want to have to do it",
+                        "src": "https://fakeimg.pl/1500x2126/ffffff/000000/?font=noto&font_size=42&text=I+don%27t+want+to+have+to+do+%0Ait"
+                    }
+                ]
+            },
+            "last_updated": 1746044280
         }
     }
 }
