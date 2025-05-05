@@ -813,6 +813,24 @@
                 ]
             },
             "last_updated": 1746125760
+        },
+        "46": {
+            "title": "Great comic, Brain!",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/05/04/great-comic-brain/b.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/05/04/great-comic-brain/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/05/04/great-comic-brain/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/05/04/great-comic-brain/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/05/04/great-comic-brain/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/05/04/great-comic-brain/5.jpg",
+                    {
+                        "description": "Maybe I'll take it up with my therapist",
+                        "src": "https://fakeimg.pl/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Maybe+I%27ll+take+it+up+with+%0Amy+therapist"
+                    }
+                ]
+            },
+            "last_updated": 1746396960
         }
     }
 }
