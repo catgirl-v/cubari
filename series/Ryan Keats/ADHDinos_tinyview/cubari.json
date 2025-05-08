@@ -831,6 +831,24 @@
                 ]
             },
             "last_updated": 1746396960
+        },
+        "47": {
+            "title": "Dino's big plan",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/05/07/dino-s-big-plan/Banners.7.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/05/07/dino-s-big-plan/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/05/07/dino-s-big-plan/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/05/07/dino-s-big-plan/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/05/07/dino-s-big-plan/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/05/07/dino-s-big-plan/5.jpg",
+                    {
+                        "description": "So much joy derived from the planning stage alone-- I think I'm good to stop here!",
+                        "src": "https://fakeimg.pl/1500x2126/ffffff/000000/?font=noto&font_size=42&text=So+much+joy+derived+from+the+%0Aplanning+stage+alone--+I+think+%0AI%27m+good+to+stop+here%21"
+                    }
+                ]
+            },
+            "last_updated": 1746628980
         }
     }
 }
