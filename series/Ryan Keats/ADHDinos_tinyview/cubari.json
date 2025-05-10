@@ -849,6 +849,24 @@
                 ]
             },
             "last_updated": 1746628980
+        },
+        "48": {
+            "title": "Managing expectations",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/05/09/managing-expectations/b.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/05/09/managing-expectations/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/05/09/managing-expectations/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/05/09/managing-expectations/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/05/09/managing-expectations/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/05/09/managing-expectations/5.jpg",
+                    {
+                        "description": "I think Brain is quoting himself, again.",
+                        "src": "https://fakeimg.pl/1500x2126/ffffff/000000/?font=noto&font_size=42&text=I+think+Brain+is+quoting+himself%2C+%0Aagain."
+                    }
+                ]
+            },
+            "last_updated": 1746798780
         }
     }
 }
