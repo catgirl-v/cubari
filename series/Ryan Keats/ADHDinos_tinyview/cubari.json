@@ -957,6 +957,24 @@
                 ]
             },
             "last_updated": 1748463840
+        },
+        "54": {
+            "title": "Dehydrated Dino",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/06/02/dehydrated-dino/b.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/06/02/dehydrated-dino/No-logo_F_1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/06/02/dehydrated-dino/No-logo_F_2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/06/02/dehydrated-dino/No-logo_F_3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/06/02/dehydrated-dino/No-logo_F_4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/06/02/dehydrated-dino/5.jpg",
+                    {
+                        "description": "My doctor told me I'm chronically dehydrated. My best tip to drink more water: straw",
+                        "src": "https://fakeimg.ryd.tools/1500x2126/ffffff/000000/?font=noto&font_size=42&text=My+doctor+told+me+I%27m+chronically+%0Adehydrated.+My+best+tip+to+%0Adrink+more+water%3A+straw"
+                    }
+                ]
+            },
+            "last_updated": 1748873700
         }
     }
 }
