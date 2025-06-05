@@ -975,6 +975,24 @@
                 ]
             },
             "last_updated": 1748873700
+        },
+        "55": {
+            "title": "Haunted house",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/06/04/haunted-house/b.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/06/04/haunted-house/26_F_1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/06/04/haunted-house/26_F_2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/06/04/haunted-house/26_F_3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/06/04/haunted-house/26_F_4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/06/04/haunted-house/26_F_5.jpg",
+                    {
+                        "description": "Dino's worst nightmare",
+                        "src": "https://fakeimg.ryd.tools/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Dino%27s+worst+nightmare"
+                    }
+                ]
+            },
+            "last_updated": 1749051180
         }
     }
 }
