@@ -1011,6 +1011,24 @@
                 ]
             },
             "last_updated": 1749347100
+        },
+        "57": {
+            "title": "Determination allocation",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/06/12/determination-allocation/B.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/06/12/determination-allocation/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/06/12/determination-allocation/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/06/12/determination-allocation/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/06/12/determination-allocation/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/06/12/determination-allocation/5.jpg",
+                    {
+                        "description": "Brain finally does the thing",
+                        "src": "https://fakeimg.ryd.tools/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Brain+finally+does+the+thing"
+                    }
+                ]
+            },
+            "last_updated": 1749776880
         }
     }
 }
