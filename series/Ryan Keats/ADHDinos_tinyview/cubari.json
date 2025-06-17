@@ -1029,6 +1029,23 @@
                 ]
             },
             "last_updated": 1749776880
+        },
+        "58": {
+            "title": "Plan of action",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/06/16/plan-of-action/b.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/06/16/plan-of-action/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/06/16/plan-of-action/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/06/16/plan-of-action/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/06/16/plan-of-action/4.jpg",
+                    {
+                        "description": "He's so convincing when he needs to be",
+                        "src": "https://fakeimg.ryd.tools/1500x2126/ffffff/000000/?font=noto&font_size=42&text=He%27s+so+convincing+when+he+%0Aneeds+to+be"
+                    }
+                ]
+            },
+            "last_updated": 1750087620
         }
     }
 }
