@@ -1046,6 +1046,24 @@
                 ]
             },
             "last_updated": 1750087620
+        },
+        "59": {
+            "title": "Ignorance = Bliss",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/06/20/ignorance-bliss/Banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/06/20/ignorance-bliss/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/06/20/ignorance-bliss/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/06/20/ignorance-bliss/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/06/20/ignorance-bliss/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/06/20/ignorance-bliss/5.jpg",
+                    {
+                        "description": "Some outstanding news!",
+                        "src": "https://fakeimg.ryd.tools/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Some+outstanding+news%21"
+                    }
+                ]
+            },
+            "last_updated": 1750440180
         }
     }
 }
