@@ -1064,6 +1064,24 @@
                 ]
             },
             "last_updated": 1750440180
+        },
+        "60": {
+            "title": "Order of operations",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/06/23/order-of-operations/Banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/06/23/order-of-operations/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/06/23/order-of-operations/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/06/23/order-of-operations/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/06/23/order-of-operations/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/06/23/order-of-operations/5.jpg",
+                    {
+                        "description": "Brain weighs his options",
+                        "src": "https://fakeimg.ryd.tools/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Brain+weighs+his+options"
+                    }
+                ]
+            },
+            "last_updated": 1750714440
         }
     }
 }
