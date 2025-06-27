@@ -1082,6 +1082,24 @@
                 ]
             },
             "last_updated": 1750714440
+        },
+        "61": {
+            "title": "Burnout",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/06/26/burnout/Banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/06/26/burnout/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/06/26/burnout/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/06/26/burnout/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/06/26/burnout/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/06/26/burnout/5.jpg",
+                    {
+                        "description": "Do something nice for yourself today, please",
+                        "src": "https://fakeimg.ryd.tools/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Do+something+nice+for+yourself+%0Atoday%2C+please"
+                    }
+                ]
+            },
+            "last_updated": 1750968120
         }
     }
 }
