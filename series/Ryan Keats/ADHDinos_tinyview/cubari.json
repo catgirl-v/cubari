@@ -1100,6 +1100,24 @@
                 ]
             },
             "last_updated": 1750968120
+        },
+        "62": {
+            "title": "The follow-up",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/06/28/the-follow-up/b.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/06/28/the-follow-up/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/06/28/the-follow-up/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/06/28/the-follow-up/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/06/28/the-follow-up/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/06/28/the-follow-up/5.jpg",
+                    {
+                        "description": "We could just call them back tomorrow",
+                        "src": "https://fakeimg.ryd.tools/1500x2126/ffffff/000000/?font=noto&font_size=42&text=We+could+just+call+them+back+%0Atomorrow"
+                    }
+                ]
+            },
+            "last_updated": 1751145180
         }
     }
 }
