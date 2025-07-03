@@ -1136,6 +1136,24 @@
                 ]
             },
             "last_updated": 1751208780
+        },
+        "64": {
+            "title": "A brainy blunder",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/07/02/a-brainy-blunder/Banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/07/02/a-brainy-blunder/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/07/02/a-brainy-blunder/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/07/02/a-brainy-blunder/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/07/02/a-brainy-blunder/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/07/02/a-brainy-blunder/5.jpg",
+                    {
+                        "description": "He feels bad about it, for what that's worth",
+                        "src": "https://fakeimg.ryd.tools/1500x2126/ffffff/000000/?font=noto&font_size=42&text=He+feels+bad+about+it%2C+for+%0Awhat+that%27s+worth"
+                    }
+                ]
+            },
+            "last_updated": 1751507640
         }
     }
 }
