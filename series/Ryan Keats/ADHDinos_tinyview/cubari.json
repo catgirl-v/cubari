@@ -1154,6 +1154,24 @@
                 ]
             },
             "last_updated": 1751507640
+        },
+        "65": {
+            "title": "Sweeping change",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/07/06/sweeping-change/Banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/07/06/sweeping-change/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/07/06/sweeping-change/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/07/06/sweeping-change/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/07/06/sweeping-change/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/07/06/sweeping-change/5.jpg",
+                    {
+                        "description": "Like a place too far to walk, yet too close to drive. I simply never go",
+                        "src": "https://fakeimg.ryd.tools/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Like+a+place+too+far+to+walk%2C+%0Ayet+too+close+to+drive.+I+%0Asimply+never+go"
+                    }
+                ]
+            },
+            "last_updated": 1751837280
         }
     }
 }
