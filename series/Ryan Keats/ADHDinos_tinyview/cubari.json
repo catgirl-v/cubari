@@ -1226,6 +1226,24 @@
                 ]
             },
             "last_updated": 1752948660
+        },
+        "69": {
+            "title": "Shame",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/07/22/shame/Banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/07/22/shame/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/07/22/shame/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/07/22/shame/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/07/22/shame/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/07/22/shame/5.jpg",
+                    {
+                        "description": "Remind me why we are friends with him, again?",
+                        "src": "https://fakeimg.ryd.tools/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Remind+me+why+we+are+friends+%0Awith+him%2C+again%3F"
+                    }
+                ]
+            },
+            "last_updated": 1753233180
         }
     }
 }
