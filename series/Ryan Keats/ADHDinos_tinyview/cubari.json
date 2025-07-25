@@ -1244,6 +1244,22 @@
                 ]
             },
             "last_updated": 1753233180
+        },
+        "70": {
+            "title": "Bad news",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/07/24/bad-news/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/07/24/bad-news/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/07/24/bad-news/2.2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/07/24/bad-news/3.jpg",
+                    {
+                        "description": "They hate to see it",
+                        "src": "https://fakeimg.ryd.tools/1500x2126/ffffff/000000/?font=noto&font_size=42&text=They+hate+to+see+it"
+                    }
+                ]
+            },
+            "last_updated": 1753401720
         }
     }
 }
