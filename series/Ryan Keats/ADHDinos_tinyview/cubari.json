@@ -1260,6 +1260,24 @@
                 ]
             },
             "last_updated": 1753401720
+        },
+        "71": {
+            "title": "Attention to detail",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/07/26/attention-to-detail/Banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/07/26/attention-to-detail/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/07/26/attention-to-detail/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/07/26/attention-to-detail/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/07/26/attention-to-detail/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/07/26/attention-to-detail/5.jpg",
+                    {
+                        "description": "I have since decided that borders are not that important",
+                        "src": "https://fakeimg.ryd.tools/1500x2126/ffffff/000000/?font=noto&font_size=42&text=I+have+since+decided+that+%0Aborders+are+not+that+important"
+                    }
+                ]
+            },
+            "last_updated": 1753569720
         }
     }
 }
