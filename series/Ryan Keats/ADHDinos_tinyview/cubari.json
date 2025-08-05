@@ -1296,6 +1296,24 @@
                 ]
             },
             "last_updated": 1753981620
+        },
+        "73": {
+            "title": "Positive feedback",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/08/04/positive-feedback/b2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/08/04/positive-feedback/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/08/04/positive-feedback/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/08/04/positive-feedback/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/08/04/positive-feedback/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/08/04/positive-feedback/5.jpg",
+                    {
+                        "description": "Am I good at everything I do, or do I only commit to things I'm immediately good at?",
+                        "src": "https://fakeimg.ryd.tools/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Am+I+good+at+everything+I+%0Ado%2C+or+do+I+only+commit+to+%0Athings+I%27m+immediately+good+%0Aat%3F"
+                    }
+                ]
+            },
+            "last_updated": 1754336700
         }
     }
 }
