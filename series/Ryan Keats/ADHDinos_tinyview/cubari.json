@@ -1314,6 +1314,24 @@
                 ]
             },
             "last_updated": 1754336700
+        },
+        "74": {
+            "title": "It knows",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/08/08/it-knows/b2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/08/08/it-knows/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/08/08/it-knows/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/08/08/it-knows/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/08/08/it-knows/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/08/08/it-knows/5.jpg",
+                    {
+                        "description": "I don't know what the advertiser has to gain from this",
+                        "src": "https://fakeimg.ryd.tools/1500x2126/ffffff/000000/?font=noto&font_size=42&text=I+don%27t+know+what+the+advertiser+%0Ahas+to+gain+from+this"
+                    }
+                ]
+            },
+            "last_updated": 1754690880
         }
     }
 }
