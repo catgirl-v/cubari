@@ -1332,6 +1332,24 @@
                 ]
             },
             "last_updated": 1754690880
+        },
+        "75": {
+            "title": "Brain fog",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/08/11/brain-fog/B.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/08/11/brain-fog/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/08/11/brain-fog/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/08/11/brain-fog/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/08/11/brain-fog/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/08/11/brain-fog/5.jpg",
+                    {
+                        "description": "Brain checks the forecast!",
+                        "src": "https://fakeimg.ryd.tools/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Brain+checks+the+forecast%21"
+                    }
+                ]
+            },
+            "last_updated": 1754923080
         }
     }
 }
