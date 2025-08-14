@@ -1350,6 +1350,24 @@
                 ]
             },
             "last_updated": 1754923080
+        },
+        "76": {
+            "title": "Sitting with it",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/08/13/sitting-with-it/Banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/08/13/sitting-with-it/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/08/13/sitting-with-it/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/08/13/sitting-with-it/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/08/13/sitting-with-it/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/08/13/sitting-with-it/5.jpg",
+                    {
+                        "description": "Inactions have consequences",
+                        "src": "https://fakeimg.ryd.tools/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Inactions+have+consequences"
+                    }
+                ]
+            },
+            "last_updated": 1755107580
         }
     }
 }
