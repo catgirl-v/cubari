@@ -1404,6 +1404,24 @@
                 ]
             },
             "last_updated": 1755874380
+        },
+        "79": {
+            "title": "Stress",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/08/24/stress/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/08/24/stress/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/08/24/stress/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/08/24/stress/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/08/24/stress/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/08/24/stress/5.jpg",
+                    {
+                        "description": "Brain is otherwise occupied today",
+                        "src": "https://fakeimg.ryd.tools/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Brain+is+otherwise+occupied+%0Atoday"
+                    }
+                ]
+            },
+            "last_updated": 1756071000
         }
     }
 }
