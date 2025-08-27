@@ -1422,6 +1422,24 @@
                 ]
             },
             "last_updated": 1756071000
+        },
+        "80": {
+            "title": "This often backfires",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/08/26/this-often-backfires/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/08/26/this-often-backfires/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/08/26/this-often-backfires/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/08/26/this-often-backfires/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/08/26/this-often-backfires/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/08/26/this-often-backfires/5.jpg",
+                    {
+                        "description": "Blah blah something about Auditory Processing Disorder",
+                        "src": "https://fakeimg.ryd.tools/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Blah+blah+something+about+%0AAuditory+Processing+Disorder"
+                    }
+                ]
+            },
+            "last_updated": 1756223400
         }
     }
 }
