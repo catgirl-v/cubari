@@ -1440,6 +1440,24 @@
                 ]
             },
             "last_updated": 1756223400
+        },
+        "81": {
+            "title": "Great point",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/08/27/great-point/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/08/27/great-point/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/08/27/great-point/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/08/27/great-point/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/08/27/great-point/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/08/27/great-point/5.jpg",
+                    {
+                        "description": "Y'know, Anxiety-rex, I've never genuinely considered that",
+                        "src": "https://fakeimg.ryd.tools/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Y%27know%2C+Anxiety-rex%2C+I%27ve+%0Anever+genuinely+considered+%0Athat"
+                    }
+                ]
+            },
+            "last_updated": 1756307280
         }
     }
 }
