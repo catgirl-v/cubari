@@ -1458,6 +1458,24 @@
                 ]
             },
             "last_updated": 1756307280
+        },
+        "82": {
+            "title": "Fine wine",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/09/01/fine-wine/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/09/01/fine-wine/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/09/01/fine-wine/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/09/01/fine-wine/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/09/01/fine-wine/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/09/01/fine-wine/5.jpg",
+                    {
+                        "description": "It's a matter of accumulating weaponized stress-induced adrenaline",
+                        "src": "https://fakeimg.ryd.tools/1500x2126/ffffff/000000/?font=noto&font_size=42&text=It%27s+a+matter+of+accumulating+%0Aweaponized+stress-induced+%0Aadrenaline"
+                    }
+                ]
+            },
+            "last_updated": 1756743720
         }
     }
 }
