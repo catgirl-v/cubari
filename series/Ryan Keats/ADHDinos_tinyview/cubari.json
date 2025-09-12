@@ -1494,6 +1494,24 @@
                 ]
             },
             "last_updated": 1757000700
+        },
+        "84": {
+            "title": "Revelations",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/09/11/revelations/b-2.png",
+                    "https://cdn.tinyview.com/adhdinos/2025/09/11/revelations/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/09/11/revelations/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/09/11/revelations/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/09/11/revelations/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/09/11/revelations/5.jpg",
+                    {
+                        "description": "Brain has a big idea",
+                        "src": "https://fakeimg.ryd.tools/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Brain+has+a+big+idea"
+                    }
+                ]
+            },
+            "last_updated": 1757636640
         }
     }
 }
