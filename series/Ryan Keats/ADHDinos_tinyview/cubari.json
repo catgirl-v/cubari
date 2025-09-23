@@ -1530,6 +1530,24 @@
                 ]
             },
             "last_updated": 1758210360
+        },
+        "86": {
+            "title": "My eyes only",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/09/22/my-eyes-only/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/09/22/my-eyes-only/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/09/22/my-eyes-only/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/09/22/my-eyes-only/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/09/22/my-eyes-only/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/09/22/my-eyes-only/5.jpg",
+                    {
+                        "description": "This is one of the first ADHDinos comics ever made!",
+                        "src": "https://fakeimg.ryd.tools/1500x2126/ffffff/000000/?font=noto&font_size=42&text=This+is+one+of+the+first+ADHDinos+%0Acomics+ever+made%21"
+                    }
+                ]
+            },
+            "last_updated": 1758567540
         }
     }
 }
