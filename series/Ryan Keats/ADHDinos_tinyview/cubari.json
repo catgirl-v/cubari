@@ -1548,6 +1548,24 @@
                 ]
             },
             "last_updated": 1758567540
+        },
+        "87": {
+            "title": "Anxiety, take the wheel",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/09/25/anxiety-take-the-wheel/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/09/25/anxiety-take-the-wheel/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/09/25/anxiety-take-the-wheel/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/09/25/anxiety-take-the-wheel/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/09/25/anxiety-take-the-wheel/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/09/25/anxiety-take-the-wheel/5.jpg",
+                    {
+                        "description": "It's possible he lies",
+                        "src": "https://fakeimg.ryd.tools/1500x2126/ffffff/000000/?font=noto&font_size=42&text=It%27s+possible+he+lies"
+                    }
+                ]
+            },
+            "last_updated": 1758820260
         }
     }
 }
