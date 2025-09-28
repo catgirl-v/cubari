@@ -1566,6 +1566,24 @@
                 ]
             },
             "last_updated": 1758820260
+        },
+        "88": {
+            "title": "The Art of Walks",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/09/27/the-art-of-walks/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/09/27/the-art-of-walks/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/09/27/the-art-of-walks/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/09/27/the-art-of-walks/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/09/27/the-art-of-walks/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/09/27/the-art-of-walks/5.jpg",
+                    {
+                        "description": "Dino, alone with his thoughts",
+                        "src": "https://fakeimg.ryd.tools/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Dino%2C+alone+with+his+thoughts"
+                    }
+                ]
+            },
+            "last_updated": 1759002300
         }
     }
 }
