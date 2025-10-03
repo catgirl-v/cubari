@@ -1584,6 +1584,24 @@
                 ]
             },
             "last_updated": 1759002300
+        },
+        "89": {
+            "title": "Task initiation",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/10/02/task-initiation/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/10/02/task-initiation/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/10/02/task-initiation/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/10/02/task-initiation/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/10/02/task-initiation/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/10/02/task-initiation/5.jpg",
+                    {
+                        "description": "Maybe it's really big, just really far away",
+                        "src": "https://fakeimg.ryd.tools/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Maybe+it%27s+really+big%2C+just+%0Areally+far+away"
+                    }
+                ]
+            },
+            "last_updated": 1759417740
         }
     }
 }
