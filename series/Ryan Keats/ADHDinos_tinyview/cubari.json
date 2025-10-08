@@ -1602,6 +1602,24 @@
                 ]
             },
             "last_updated": 1759417740
+        },
+        "90": {
+            "title": "Self-improvement",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/10/07/self-improvement/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/10/07/self-improvement/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/10/07/self-improvement/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/10/07/self-improvement/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/10/07/self-improvement/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/10/07/self-improvement/5.jpg",
+                    {
+                        "description": "I appreciate the thought, though.",
+                        "src": "https://fakeimg.ryd.tools/1500x2126/ffffff/000000/?font=noto&font_size=42&text=I+appreciate+the+thought%2C+%0Athough."
+                    }
+                ]
+            },
+            "last_updated": 1759850340
         }
     }
 }
