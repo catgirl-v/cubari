@@ -21,3 +21,4 @@ jq -sf "${my_dragon_gf}/cubari.jq" "${my_dragon_gf}/tweets.jsonl" > "${my_dragon
 ./series/Ryan\ Keats/ADHDinos/adhdinos.py
 ./series/Ryan\ Keats/ADHDinos_tinyview/adhdinos.py
 ./series/Xanthippe\ Hutcheon/Pandora\'s\ Tale/pandora.py
+./series/Masaoki\ Shindou/RuriDragon/ruridragon.py

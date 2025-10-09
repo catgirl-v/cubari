@@ -16,6 +16,9 @@ Enjoy!
 + [Xanthippe Hutcheon - Pandora's Tale][Pandora]
   + [Cubari][Pandora/Cubari]
   + [gist source][Pandora/cubari.json]
++ [Masaoki Shindou - RuriDragon][RuriDragon]
+  + [Cubari][RuriDragon/Cubari]
+  + [gist source][RuriDragon/cubari.json]
 
 [Fawnduu/My Dragon Girlfriend]: https://www.webtoons.com/en/canvas/my-dragon-girlfriend/list?title_no=162918
 [Fawnduu/My Dragon Girlfriend/Cubari]: https://cubari.moe/read/gist/cmF3L2NhdGdpcmwtdi9jdWJhcmkvZC9jYXRnaXJsLXYvbWFpbi9zZXJpZXMvRmF3bmR1dS9NeSUyMERyYWdvbiUyMEdpcmxmcmllbmQvY3ViYXJpLmpzb24/
@@ -32,6 +35,10 @@ Enjoy!
 [Pandora]: https://pandorastale.com/
 [Pandora/Cubari]: https://cubari.moe/read/gist/cmF3L2NhdGdpcmwtdi9jdWJhcmkvZC9jYXRnaXJsLXYvbWFpbi9zZXJpZXMvWGFudGhpcHBlJTIwSHV0Y2hlb24vUGFuZG9yYSdzJTIwVGFsZS9jdWJhcmkuanNvbg/
 [Pandora/cubari.json]: https://raw.githubusercontent.com/catgirl-v/cubari/d/catgirl-v/main/series/Xanthippe%20Hutcheon/Pandora's%20Tale/cubari.json
+
+[RuriDragon]: https://ruridragon.com/
+[RuriDragon/Cubari]: https://cubari.moe/read/gist/cmF3L2NhdGdpcmwtdi9jdWJhcmkvZC9jYXRnaXJsLXYvbWFpbi9zZXJpZXMvTWFzYW9raSUyMFNoaW5kb3UvUnVyaURyYWdvbi9jdWJhcmkuanNvbg/
+[RuriDragon/cubari.json]: https://raw.githubusercontent.com/catgirl-v/cubari/d/catgirl-v/main/series/Masaoki%20Shindou/RuriDragon/cubari.json
 
 ## Initial import notes
 
