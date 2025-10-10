@@ -1620,6 +1620,24 @@
                 ]
             },
             "last_updated": 1759850340
+        },
+        "91": {
+            "title": "Rest can be productive",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/10/09/rest-can-be-productive/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/10/09/rest-can-be-productive/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/10/09/rest-can-be-productive/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/10/09/rest-can-be-productive/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/10/09/rest-can-be-productive/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/10/09/rest-can-be-productive/5.jpg",
+                    {
+                        "description": "Just not in this particular situation",
+                        "src": "https://fakeimg.ryd.tools/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Just+not+in+this+particular+%0Asituation"
+                    }
+                ]
+            },
+            "last_updated": 1760023140
         }
     }
 }
