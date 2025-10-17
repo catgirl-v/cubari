@@ -1638,6 +1638,24 @@
                 ]
             },
             "last_updated": 1760023140
+        },
+        "92": {
+            "title": "Time off",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/10/16/time-off/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/10/16/time-off/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/10/16/time-off/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/10/16/time-off/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/10/16/time-off/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/10/16/time-off/5.jpg",
+                    {
+                        "description": "Waiting mode, engaged",
+                        "src": "https://fakeimg.ryd.tools/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Waiting+mode%2C+engaged"
+                    }
+                ]
+            },
+            "last_updated": 1760628600
         }
     }
 }
