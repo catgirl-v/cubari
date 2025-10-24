@@ -1673,6 +1673,24 @@
                 ]
             },
             "last_updated": 1760989380
+        },
+        "94": {
+            "title": "Mutual exclusivity",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/10/23/mutual-exclusivity/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/10/23/mutual-exclusivity/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/10/23/mutual-exclusivity/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/10/23/mutual-exclusivity/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/10/23/mutual-exclusivity/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/10/23/mutual-exclusivity/5.jpg",
+                    {
+                        "description": "Oh oh! Don't forget to burnout, as well!",
+                        "src": "https://fakeimg.ryd.tools/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Oh+oh%21+Don%27t+forget+to+burnout%2C+%0Aas+well%21"
+                    }
+                ]
+            },
+            "last_updated": 1761252660
         }
     }
 }
