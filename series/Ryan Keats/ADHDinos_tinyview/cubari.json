@@ -1709,6 +1709,24 @@
                 ]
             },
             "last_updated": 1761323220
+        },
+        "96": {
+            "title": "External monologue",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/10/28/external-monologue/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/10/28/external-monologue/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/10/28/external-monologue/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/10/28/external-monologue/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/10/28/external-monologue/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/10/28/external-monologue/5.jpg",
+                    {
+                        "description": "Just thinking out loud",
+                        "src": "https://fakeimg.ryd.tools/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Just+thinking+out+loud"
+                    }
+                ]
+            },
+            "last_updated": 1761668220
         }
     }
 }
