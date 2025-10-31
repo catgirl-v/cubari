@@ -1727,6 +1727,24 @@
                 ]
             },
             "last_updated": 1761668220
+        },
+        "97": {
+            "title": "Every 6 weeks",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/10/30/every-6-weeks/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/10/30/every-6-weeks/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/10/30/every-6-weeks/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/10/30/every-6-weeks/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/10/30/every-6-weeks/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/10/30/every-6-weeks/5.jpg",
+                    {
+                        "description": "Everything was going so well",
+                        "src": "https://fakeimg.ryd.tools/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Everything+was+going+so+well"
+                    }
+                ]
+            },
+            "last_updated": 1761842280
         }
     }
 }
