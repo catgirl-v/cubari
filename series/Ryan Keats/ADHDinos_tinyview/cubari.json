@@ -1817,6 +1817,24 @@
                 ]
             },
             "last_updated": 1762619340
+        },
+        "102": {
+            "title": "Questioning Authority",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/11/11/questioning-authority/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/11/11/questioning-authority/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/11/11/questioning-authority/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/11/11/questioning-authority/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/11/11/questioning-authority/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/11/11/questioning-authority/5.jpg",
+                    {
+                        "description": "Brain is sometimes a goblin who hates being told what to do",
+                        "src": "https://fakeimg.ryd.tools/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Brain+is+sometimes+a+goblin+%0Awho+hates+being+told+what+%0Ato+do"
+                    }
+                ]
+            },
+            "last_updated": 1762898640
         }
     }
 }
