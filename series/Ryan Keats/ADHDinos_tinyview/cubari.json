@@ -1853,6 +1853,24 @@
                 ]
             },
             "last_updated": 1763050800
+        },
+        "104": {
+            "title": "Good behaviour",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/11/17/good-behaviour/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/11/17/good-behaviour/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/11/17/good-behaviour/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/11/17/good-behaviour/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/11/17/good-behaviour/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/11/17/good-behaviour/5.jpg",
+                    {
+                        "description": "I mean, that's why we do what we do.",
+                        "src": "https://fakeimg.ryd.tools/1500x2126/ffffff/000000/?font=noto&font_size=42&text=I+mean%2C+that%27s+why+we+do+what+%0Awe+do."
+                    }
+                ]
+            },
+            "last_updated": 1763402160
         }
     }
 }
