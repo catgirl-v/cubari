@@ -1871,6 +1871,24 @@
                 ]
             },
             "last_updated": 1763402160
+        },
+        "105": {
+            "title": "Dopamine stacking",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/11/19/dopamine-stacking/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/11/19/dopamine-stacking/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/11/19/dopamine-stacking/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/11/19/dopamine-stacking/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/11/19/dopamine-stacking/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/11/19/dopamine-stacking/5.jpg",
+                    {
+                        "description": "I can't see this becoming a problem",
+                        "src": "https://fakeimg.ryd.tools/1500x2126/ffffff/000000/?font=noto&font_size=42&text=I+can%27t+see+this+becoming+%0Aa+problem"
+                    }
+                ]
+            },
+            "last_updated": 1763574720
         }
     }
 }
