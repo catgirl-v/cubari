@@ -1889,6 +1889,24 @@
                 ]
             },
             "last_updated": 1763574720
+        },
+        "106": {
+            "title": "Strategic avoidance",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/11/20/strategic-avoidance/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/11/20/strategic-avoidance/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/11/20/strategic-avoidance/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/11/20/strategic-avoidance/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/11/20/strategic-avoidance/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/11/20/strategic-avoidance/5.jpg",
+                    {
+                        "description": "10 minute task, or 36hrs of anxiety?",
+                        "src": "https://fakeimg.ryd.tools/1500x2126/ffffff/000000/?font=noto&font_size=42&text=10+minute+task%2C+or+36hrs+of+%0Aanxiety%3F"
+                    }
+                ]
+            },
+            "last_updated": 1763663940
         }
     }
 }
