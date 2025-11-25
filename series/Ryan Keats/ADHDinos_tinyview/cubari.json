@@ -1907,6 +1907,24 @@
                 ]
             },
             "last_updated": 1763663940
+        },
+        "107": {
+            "title": "Checking in",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/11/24/checking-in/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/11/24/checking-in/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/11/24/checking-in/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/11/24/checking-in/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/11/24/checking-in/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/11/24/checking-in/5.jpg",
+                    {
+                        "description": "I think he passed",
+                        "src": "https://fakeimg.ryd.tools/1500x2126/ffffff/000000/?font=noto&font_size=42&text=I+think+he+passed"
+                    }
+                ]
+            },
+            "last_updated": 1764009540
         }
     }
 }
