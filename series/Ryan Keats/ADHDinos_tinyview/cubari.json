@@ -1925,6 +1925,24 @@
                 ]
             },
             "last_updated": 1764009540
+        },
+        "108": {
+            "title": "Duality",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/11/25/duality/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/11/25/duality/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/11/25/duality/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/11/25/duality/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/11/25/duality/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/11/25/duality/5.jpg",
+                    {
+                        "description": "Why not both? Or perhaps neither?",
+                        "src": "https://fakeimg.ryd.tools/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Why+not+both%3F+Or+perhaps+neither%3F"
+                    }
+                ]
+            },
+            "last_updated": 1764088200
         }
     }
 }
