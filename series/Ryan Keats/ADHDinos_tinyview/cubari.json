@@ -1943,6 +1943,24 @@
                 ]
             },
             "last_updated": 1764088200
+        },
+        "109": {
+            "title": "Negotiations",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/11/27/negotiations/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/11/27/negotiations/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/11/27/negotiations/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/11/27/negotiations/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/11/27/negotiations/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/11/27/negotiations/5.jpg",
+                    {
+                        "description": "This was the first appearance of Brain! Comic #29",
+                        "src": "https://fake-images-please.vercel.app/1500x2126/ffffff/000000/?font=noto&font_size=42&text=This+was+the+first+appearance+%0Aof+Brain%21+Comic+%2329"
+                    }
+                ]
+            },
+            "last_updated": 1764282360
         }
     }
 }
