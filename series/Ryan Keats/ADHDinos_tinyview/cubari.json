@@ -1997,6 +1997,24 @@
                 ]
             },
             "last_updated": 1764688140
+        },
+        "112": {
+            "title": "A pit stop",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/12/05/a-pit-stop/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/12/05/a-pit-stop/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/12/05/a-pit-stop/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/12/05/a-pit-stop/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/12/05/a-pit-stop/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/12/05/a-pit-stop/5.jpg",
+                    {
+                        "description": "Right, but why are my shoulders so tense?",
+                        "src": "https://fake-images-please.vercel.app/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Right%2C+but+why+are+my+shoulders+%0Aso+tense%3F"
+                    }
+                ]
+            },
+            "last_updated": 1764954540
         }
     }
 }
