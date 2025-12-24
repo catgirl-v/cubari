@@ -2106,6 +2106,24 @@
                 ]
             },
             "last_updated": 1766343600
+        },
+        "118": {
+            "title": "Sleep deprivation",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2025/12/22/sleep-deprivation/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/12/22/sleep-deprivation/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/12/22/sleep-deprivation/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/12/22/sleep-deprivation/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/12/22/sleep-deprivation/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2025/12/22/sleep-deprivation/5.jpg",
+                    {
+                        "description": "Don't know what could be causing this",
+                        "src": "https://fake-images-please.vercel.app/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Don%27t+know+what+could+be+causing+%0Athis"
+                    }
+                ]
+            },
+            "last_updated": 1766504700
         }
     }
 }
