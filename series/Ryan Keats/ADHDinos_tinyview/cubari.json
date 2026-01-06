@@ -2142,6 +2142,24 @@
                 ]
             },
             "last_updated": 1767371400
+        },
+        "120": {
+            "title": "Catch 22",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2026/01/04/catch-22/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/01/04/catch-22/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/01/04/catch-22/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/01/04/catch-22/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/01/04/catch-22/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/01/04/catch-22/5.jpg",
+                    {
+                        "description": "But have you considered neither?",
+                        "src": "https://fake-images-please.vercel.app/1500x2126/ffffff/000000/?font=noto&font_size=42&text=But+have+you+considered+neither%3F"
+                    }
+                ]
+            },
+            "last_updated": 1767641400
         }
     }
 }
