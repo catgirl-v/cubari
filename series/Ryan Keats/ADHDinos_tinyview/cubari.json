@@ -2179,6 +2179,24 @@
                 ]
             },
             "last_updated": 1767886200
+        },
+        "122": {
+            "title": "Making new friends",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2026/01/09/making-new-friends/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/01/09/making-new-friends/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/01/09/making-new-friends/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/01/09/making-new-friends/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/01/09/making-new-friends/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/01/09/making-new-friends/5.jpg",
+                    {
+                        "description": "Or... maybe... don't",
+                        "src": "https://fake-images-please.vercel.app/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Or...+maybe...+don%27t"
+                    }
+                ]
+            },
+            "last_updated": 1768063980
         }
     }
 }
