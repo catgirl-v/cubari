@@ -2307,6 +2307,25 @@
                 ]
             },
             "last_updated": 1769273100
+        },
+        "129": {
+            "title": "Formalities",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2026/01/27/formalities/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/01/27/formalities/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/01/27/formalities/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/01/27/formalities/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/01/27/formalities/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/01/27/formalities/5.5.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/01/27/formalities/5.jpg",
+                    {
+                        "description": "I'm told some people don't like honest answers to this question",
+                        "src": "https://fake-images-please.vercel.app/1500x2126/ffffff/000000/?font=noto&font_size=42&text=I%27m+told+some+people+don%27t+%0Alike+honest+answers+to+this+%0Aquestion"
+                    }
+                ]
+            },
+            "last_updated": 1769632200
         }
     }
 }
