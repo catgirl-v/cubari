@@ -2326,6 +2326,24 @@
                 ]
             },
             "last_updated": 1769632200
+        },
+        "130": {
+            "title": "Bedtime",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2026/01/31/bedtime/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/01/31/bedtime/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/01/31/bedtime/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/01/31/bedtime/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/01/31/bedtime/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/01/31/bedtime/5.jpg",
+                    {
+                        "description": "But there's so much we can do!",
+                        "src": "https://fake-images-please.vercel.app/1500x2126/ffffff/000000/?font=noto&font_size=42&text=But+there%27s+so+much+we+can+%0Ado%21"
+                    }
+                ]
+            },
+            "last_updated": 1769946300
         }
     }
 }
