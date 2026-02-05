@@ -2344,6 +2344,25 @@
                 ]
             },
             "last_updated": 1769946300
+        },
+        "131": {
+            "title": "Planning stage",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2026/02/02/planning-stage/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/02/02/planning-stage/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/02/02/planning-stage/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/02/02/planning-stage/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/02/02/planning-stage/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/02/02/planning-stage/5.5.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/02/02/planning-stage/5.jpg",
+                    {
+                        "description": "After that, the planning stage!",
+                        "src": "https://fake-images-please.vercel.app/1500x2126/ffffff/000000/?font=noto&font_size=42&text=After+that%2C+the+planning+stage%21"
+                    }
+                ]
+            },
+            "last_updated": 1770215400
         }
     }
 }
