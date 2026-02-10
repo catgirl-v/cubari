@@ -2382,6 +2382,24 @@
                 ]
             },
             "last_updated": 1770328500
+        },
+        "133": {
+            "title": "The solution",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2026/02/07/the-solution/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/02/07/the-solution/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/02/07/the-solution/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/02/07/the-solution/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/02/07/the-solution/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/02/07/the-solution/5.jpg",
+                    {
+                        "description": "I'll overcome this in the only way I know how",
+                        "src": "https://fake-images-please.vercel.app/1500x2126/ffffff/000000/?font=noto&font_size=42&text=I%27ll+overcome+this+in+the+%0Aonly+way+I+know+how"
+                    }
+                ]
+            },
+            "last_updated": 1770645600
         }
     }
 }
