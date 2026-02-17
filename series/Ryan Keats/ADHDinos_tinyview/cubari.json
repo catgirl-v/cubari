@@ -2400,6 +2400,24 @@
                 ]
             },
             "last_updated": 1770645600
+        },
+        "134": {
+            "title": "Making progress",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2026/02/14/making-progress/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/02/14/making-progress/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/02/14/making-progress/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/02/14/making-progress/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/02/14/making-progress/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/02/14/making-progress/5.jpg",
+                    {
+                        "description": "There's no shame in working on things",
+                        "src": "https://fake-images-please.vercel.app/1500x2126/ffffff/000000/?font=noto&font_size=42&text=There%27s+no+shame+in+working+%0Aon+things"
+                    }
+                ]
+            },
+            "last_updated": 1771252320
         }
     }
 }
