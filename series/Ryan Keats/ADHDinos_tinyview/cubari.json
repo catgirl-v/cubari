@@ -2475,6 +2475,24 @@
                 ]
             },
             "last_updated": 1771857000
+        },
+        "138": {
+            "title": "What now??",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2026/02/24/what-now/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/02/24/what-now/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/02/24/what-now/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/02/24/what-now/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/02/24/what-now/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/02/24/what-now/5.jpg",
+                    {
+                        "description": "My coping mechanisms! My coping mechanisms! I can't cope without my coping mechanisms!!",
+                        "src": "https://fake-images-please.vercel.app/1500x2126/ffffff/000000/?font=noto&font_size=42&text=My+coping+mechanisms%21+My+coping+%0Amechanisms%21+I+can%27t+cope+without+%0Amy+coping+mechanisms%21%21"
+                    }
+                ]
+            },
+            "last_updated": 1772058600
         }
     }
 }
