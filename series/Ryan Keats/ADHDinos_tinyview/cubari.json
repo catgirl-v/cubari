@@ -2695,6 +2695,25 @@
                 ]
             },
             "last_updated": 1774797300
+        },
+        "150": {
+            "title": "Self-control",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2026/03/31/self-control/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/03/31/self-control/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/03/31/self-control/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/03/31/self-control/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/03/31/self-control/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/03/31/self-control/5.5.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/03/31/self-control/5.jpg",
+                    {
+                        "description": "Something something about a study on rats, or something?",
+                        "src": "https://fake-images-please.vercel.app/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Something+something+about+%0Aa+study+on+rats%2C+or+something%3F"
+                    }
+                ]
+            },
+            "last_updated": 1775072700
         }
     }
 }
