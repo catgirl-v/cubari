@@ -2751,6 +2751,25 @@
                 ]
             },
             "last_updated": 1775591940
+        },
+        "153": {
+            "title": "Critical thinking",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2026/04/09/critical-thinking/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/04/09/critical-thinking/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/04/09/critical-thinking/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/04/09/critical-thinking/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/04/09/critical-thinking/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/04/09/critical-thinking/5.5.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/04/09/critical-thinking/5.jpg",
+                    {
+                        "description": "Seems like a good place",
+                        "src": "https://fake-images-please.vercel.app/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Seems+like+a+good+place"
+                    }
+                ]
+            },
+            "last_updated": 1775844900
         }
     }
 }
