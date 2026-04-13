@@ -2770,6 +2770,24 @@
                 ]
             },
             "last_updated": 1775844900
+        },
+        "154": {
+            "title": "Self-fulfilling prophecy",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2026/04/11/self-fulfilling-prophecy/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/04/11/self-fulfilling-prophecy/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/04/11/self-fulfilling-prophecy/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/04/11/self-fulfilling-prophecy/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/04/11/self-fulfilling-prophecy/5.5.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/04/11/self-fulfilling-prophecy/5.jpg",
+                    {
+                        "description": "I fight a lot of fires. I'm great at fighting fires. But I fight a lot of fires.",
+                        "src": "https://fake-images-please.vercel.app/1500x2126/ffffff/000000/?font=noto&font_size=42&text=I+fight+a+lot+of+fires.+I%27m+%0Agreat+at+fighting+fires.+But+%0AI+fight+a+lot+of+fires."
+                    }
+                ]
+            },
+            "last_updated": 1776009540
         }
     }
 }
