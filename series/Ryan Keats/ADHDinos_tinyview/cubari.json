@@ -2807,6 +2807,24 @@
                 ]
             },
             "last_updated": 1776172500
+        },
+        "156": {
+            "title": "Balance",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2026/04/15/balance/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/04/15/balance/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/04/15/balance/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/04/15/balance/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/04/15/balance/5.5.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/04/15/balance/5.jpg",
+                    {
+                        "description": "No wonder it was SO heavy",
+                        "src": "https://fake-images-please.vercel.app/1500x2126/ffffff/000000/?font=noto&font_size=42&text=No+wonder+it+was+SO+heavy"
+                    }
+                ]
+            },
+            "last_updated": 1776349800
         }
     }
 }
