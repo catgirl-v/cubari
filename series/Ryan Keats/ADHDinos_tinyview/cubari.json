@@ -2825,6 +2825,24 @@
                 ]
             },
             "last_updated": 1776349800
+        },
+        "157": {
+            "title": "The Dinolie",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2026/04/18/the-dinolie/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/04/18/the-dinolie/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/04/18/the-dinolie/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/04/18/the-dinolie/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/04/18/the-dinolie/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/04/18/the-dinolie/5.jpg",
+                    {
+                        "description": "Mental health isn't real, and you just need to try harder",
+                        "src": "https://fake-images-please.vercel.app/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Mental+health+isn%27t+real%2C+%0Aand+you+just+need+to+try+harder"
+                    }
+                ]
+            },
+            "last_updated": 1776633600
         }
     }
 }
