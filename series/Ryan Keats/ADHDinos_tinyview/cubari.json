@@ -2922,6 +2922,25 @@
                 ]
             },
             "last_updated": 1777490400
+        },
+        "162": {
+            "title": "Quiet thoughts only",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2026/05/01/quiet-thoughts-only/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/05/01/quiet-thoughts-only/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/05/01/quiet-thoughts-only/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/05/01/quiet-thoughts-only/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/05/01/quiet-thoughts-only/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/05/01/quiet-thoughts-only/5.5.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/05/01/quiet-thoughts-only/5.jpg",
+                    {
+                        "description": "Nothing to worry about here!",
+                        "src": "https://fake-images-please.vercel.app/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Nothing+to+worry+about+here%21"
+                    }
+                ]
+            },
+            "last_updated": 1777753800
         }
     }
 }
