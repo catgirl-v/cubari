@@ -2960,6 +2960,27 @@
                 ]
             },
             "last_updated": 1777989300
+        },
+        "164": {
+            "title": "Best effort",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2026/05/10/best-effort/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/05/10/best-effort/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/05/10/best-effort/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/05/10/best-effort/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/05/10/best-effort/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/05/10/best-effort/5.5.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/05/10/best-effort/5.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/05/10/best-effort/S1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/05/10/best-effort/S2.jpg",
+                    {
+                        "description": "Better than no effort",
+                        "src": "https://fake-images-please.vercel.app/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Better+than+no+effort"
+                    }
+                ]
+            },
+            "last_updated": 1778507700
         }
     }
 }
