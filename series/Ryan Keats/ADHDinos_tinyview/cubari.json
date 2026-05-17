@@ -2981,6 +2981,25 @@
                 ]
             },
             "last_updated": 1778507700
+        },
+        "165": {
+            "title": "Task avoidance",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2026/05/15/task-avoidance/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/05/15/task-avoidance/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/05/15/task-avoidance/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/05/15/task-avoidance/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/05/15/task-avoidance/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/05/15/task-avoidance/5.5.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/05/15/task-avoidance/5.jpg",
+                    {
+                        "description": "You know what they say about scary tasks... \"don't do them.\"",
+                        "src": "https://fake-images-please.vercel.app/1500x2126/ffffff/000000/?font=noto&font_size=42&text=You+know+what+they+say+about+%0Ascary+tasks...+%22don%27t+do+them.%22"
+                    }
+                ]
+            },
+            "last_updated": 1778964300
         }
     }
 }
