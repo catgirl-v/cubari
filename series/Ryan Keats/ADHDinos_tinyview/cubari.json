@@ -3019,6 +3019,25 @@
                 ]
             },
             "last_updated": 1779201000
+        },
+        "167": {
+            "title": "So fun, so quirky",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2026/05/25/so-fun-so-quirky/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/05/25/so-fun-so-quirky/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/05/25/so-fun-so-quirky/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/05/25/so-fun-so-quirky/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/05/25/so-fun-so-quirky/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/05/25/so-fun-so-quirky/5.5.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/05/25/so-fun-so-quirky/5.jpg",
+                    {
+                        "description": "It's all fun and games until... the nausea",
+                        "src": "https://fake-images-please.vercel.app/1500x2126/ffffff/000000/?font=noto&font_size=42&text=It%27s+all+fun+and+games+until...+%0Athe+nausea"
+                    }
+                ]
+            },
+            "last_updated": 1779813000
         }
     }
 }
