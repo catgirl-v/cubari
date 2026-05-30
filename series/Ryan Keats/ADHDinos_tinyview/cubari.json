@@ -3038,6 +3038,25 @@
                 ]
             },
             "last_updated": 1779813000
+        },
+        "168": {
+            "title": "The passion project",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2026/05/28/the-passion-project/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/05/28/the-passion-project/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/05/28/the-passion-project/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/05/28/the-passion-project/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/05/28/the-passion-project/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/05/28/the-passion-project/5.5.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/05/28/the-passion-project/5.jpg",
+                    {
+                        "description": "This time is gonna be different",
+                        "src": "https://fake-images-please.vercel.app/1500x2126/ffffff/000000/?font=noto&font_size=42&text=This+time+is+gonna+be+different"
+                    }
+                ]
+            },
+            "last_updated": 1780066740
         }
     }
 }
