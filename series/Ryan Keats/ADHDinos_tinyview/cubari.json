@@ -3076,6 +3076,25 @@
                 ]
             },
             "last_updated": 1780414500
+        },
+        "170": {
+            "title": "The Escapism Artist",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2026/06/03/the-escapism-artist/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/06/03/the-escapism-artist/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/06/03/the-escapism-artist/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/06/03/the-escapism-artist/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/06/03/the-escapism-artist/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/06/03/the-escapism-artist/5.5.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/06/03/the-escapism-artist/5.jpg",
+                    {
+                        "description": "Can't say a single bad thing about that guy",
+                        "src": "https://fake-images-please.vercel.app/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Can%27t+say+a+single+bad+thing+%0Aabout+that+guy"
+                    }
+                ]
+            },
+            "last_updated": 1780581300
         }
     }
 }
