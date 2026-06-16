@@ -3133,6 +3133,25 @@
                 ]
             },
             "last_updated": 1781272500
+        },
+        "173": {
+            "title": "Finding out",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2026/06/14/finding-out/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/06/14/finding-out/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/06/14/finding-out/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/06/14/finding-out/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/06/14/finding-out/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/06/14/finding-out/5.5.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/06/14/finding-out/5.jpg",
+                    {
+                        "description": "A notable emphasis on *could*",
+                        "src": "https://fake-images-please.vercel.app/1500x2126/ffffff/000000/?font=noto&font_size=42&text=A+notable+emphasis+on+%2Acould%2A"
+                    }
+                ]
+            },
+            "last_updated": 1781553600
         }
     }
 }
