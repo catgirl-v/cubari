@@ -18,7 +18,7 @@ jq -c "select(.conversation_id == \"914484965215227904\" or .conversation_id == 
 jq -sf "${my_dragon_gf}/cubari.jq" "${my_dragon_gf}/tweets.jsonl" > "${my_dragon_gf}/cubari.json"
 
 # Run other scrapers
-./series/Ryan\ Keats/ADHDinos/adhdinos.py
+#./series/Ryan\ Keats/ADHDinos/adhdinos.py
 ./series/Ryan\ Keats/ADHDinos_tinyview/adhdinos.py
 ./series/Xanthippe\ Hutcheon/Pandora\'s\ Tale/pandora.py
 ./series/Masaoki\ Shindou/RuriDragon/ruridragon.py
