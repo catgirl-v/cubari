@@ -3247,6 +3247,27 @@
                 ]
             },
             "last_updated": 1783622100
+        },
+        "179": {
+            "title": "Conjuring progress",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2026/07/10/conjuring-progress/banner.1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/07/10/conjuring-progress/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/07/10/conjuring-progress/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/07/10/conjuring-progress/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/07/10/conjuring-progress/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/07/10/conjuring-progress/7.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/07/10/conjuring-progress/8.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/07/10/conjuring-progress/5.5.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/07/10/conjuring-progress/5.jpg",
+                    {
+                        "description": "A tiny bit of my soul in exchange for a bit of genuine productivity? Count me in",
+                        "src": "https://fake-images-please.vercel.app/1500x2126/ffffff/000000/?font=noto&font_size=42&text=A+tiny+bit+of+my+soul+in+exchange+%0Afor+a+bit+of+genuine+productivity%3F+%0ACount+me+in"
+                    }
+                ]
+            },
+            "last_updated": 1783790700
         }
     }
 }
