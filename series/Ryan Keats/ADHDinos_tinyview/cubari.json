@@ -3268,6 +3268,25 @@
                 ]
             },
             "last_updated": 1783790700
+        },
+        "180": {
+            "title": "Friendly reminder from Dino",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2026/07/12/friendly-reminder-from-dino/banner.1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/07/12/friendly-reminder-from-dino/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/07/12/friendly-reminder-from-dino/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/07/12/friendly-reminder-from-dino/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/07/12/friendly-reminder-from-dino/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/07/12/friendly-reminder-from-dino/5.5.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/07/12/friendly-reminder-from-dino/5.jpg",
+                    {
+                        "description": "I originally posted this comic in 2022. I've come to find that 2 weeks is the tip of the iceberg",
+                        "src": "https://fake-images-please.vercel.app/1500x2126/ffffff/000000/?font=noto&font_size=42&text=I+originally+posted+this+comic+%0Ain+2022.+I%27ve+come+to+find+%0Athat+2+weeks+is+the+tip+of+%0Athe+iceberg"
+                    }
+                ]
+            },
+            "last_updated": 1783974300
         }
     }
 }
