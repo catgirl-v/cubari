@@ -3308,6 +3308,26 @@
                 ]
             },
             "last_updated": 1784130900
+        },
+        "182": {
+            "title": "A death sentence",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2026/07/16/a-death-sentence/banner1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/07/16/a-death-sentence/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/07/16/a-death-sentence/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/07/16/a-death-sentence/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/07/16/a-death-sentence/5.5.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/07/16/a-death-sentence/5.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/07/16/a-death-sentence/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/07/16/a-death-sentence/Endcard1_800.jpg",
+                    {
+                        "description": "Six hours of waiting mode to come",
+                        "src": "https://fake-images-please.vercel.app/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Six+hours+of+waiting+mode+%0Ato+come"
+                    }
+                ]
+            },
+            "last_updated": 1784323200
         }
     }
 }
