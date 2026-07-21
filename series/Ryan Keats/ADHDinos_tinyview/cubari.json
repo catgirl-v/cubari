@@ -3328,6 +3328,27 @@
                 ]
             },
             "last_updated": 1784323200
+        },
+        "183": {
+            "title": "Job well done",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2026/07/19/job-well-done/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/07/19/job-well-done/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/07/19/job-well-done/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/07/19/job-well-done/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/07/19/job-well-done/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/07/19/job-well-done/5.5.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/07/19/job-well-done/5.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/07/19/job-well-done/Spacer2.png",
+                    "https://cdn.tinyview.com/adhdinos/2026/07/19/job-well-done/Endcard2_800.jpg",
+                    {
+                        "description": "Could be a part of why I have issues committing to things",
+                        "src": "https://fake-images-please.vercel.app/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Could+be+a+part+of+why+I+have+%0Aissues+committing+to+things"
+                    }
+                ]
+            },
+            "last_updated": 1784578500
         }
     }
 }
