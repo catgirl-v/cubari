@@ -9,6 +9,8 @@ jobs:
   update:
     name: Update series
     runs-on: ubuntu-latest
+    permissions:
+      id-token: write
 
     steps:
     - name: Install packages
@@ -40,6 +42,15 @@ jobs:
     - name: Install Python dependencies
       run: pip install -r requirements.txt
 
+    - name: Set up Tailscale
+      uses: tailscale/github-action@v4
+      with:
+        oauth-client-id: ${{ secrets.TS_OAUTH_CLIENT_ID }}
+        audience: ${{ secrets.TS_AUDIENCE }}
+        ping: ${{ secrets.TS_EXIT_NODE }}
+        args: "--exit-node=${{ secrets.TS_EXIT_NODE }}"
+        tags: tag:catgirl-v
+
     - name: Run update script
       env:
         TWITTER_AUTH_TOKEN: ${{ secrets.TWITTER_AUTH_TOKEN }}
@@ -50,6 +61,9 @@ jobs:
         TINYVIEW_GOOGLEAPIS_KEY: ${{ secrets.TINYVIEW_GOOGLEAPIS_KEY }}
         TINYVIEW_REFRESH_TOKEN: ${{ secrets.TINYVIEW_REFRESH_TOKEN }}
       run: ./update_series.sh
+
+    - name: Disable exit node
+      run: sudo tailscale set --exit-node ''
 
     - name: Commit changes
       run: |
