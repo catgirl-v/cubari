@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 import json
+import os
 
 import requests
 
@@ -10,15 +11,18 @@ session.headers.update({
     "User-Agent": "catgirl-v:cubari:v.0.0.69 (by the cg-v gang)",
 })
 
-session.get(
-    "https://www.reddit.com/",
-    params={
-        "token": "fuckspezfuckspezfuckspezfuckspezfuckspezfuckspezfuckspezfuckspez",
-    },
-    headers={
-        "Referer": "https://www.reddit.com/",
-    },
-)
+if loid := os.getenv("REDDIT_LOID"):
+    session.cookies["loid"] = loid
+else:
+    session.get(
+        "https://www.reddit.com/",
+        params={
+            "token": "fuckspezfuckspezfuckspezfuckspezfuckspezfuckspezfuckspezfuckspez",
+        },
+        headers={
+            "Referer": "https://www.reddit.com/",
+        },
+    )
 
 url = "https://www.reddit.com/r/ADHDinos/new.json"
 

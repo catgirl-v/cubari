@@ -54,10 +54,7 @@ jobs:
     - name: Run update script
       env:
         TWITTER_AUTH_TOKEN: ${{ secrets.TWITTER_AUTH_TOKEN }}
-        REDDIT_USER: ${{ secrets.REDDIT_USER }}
-        REDDIT_PASSWD: '${{ secrets.REDDIT_PASSWD }}'
-        REDDIT_ID: ${{ secrets.REDDIT_ID }}
-        REDDIT_SECRET: ${{ secrets.REDDIT_SECRET }}
+        REDDIT_LOID: ${{ secrets.REDDIT_LOID }}
         TINYVIEW_GOOGLEAPIS_KEY: ${{ secrets.TINYVIEW_GOOGLEAPIS_KEY }}
         TINYVIEW_REFRESH_TOKEN: ${{ secrets.TINYVIEW_REFRESH_TOKEN }}
       run: ./update_series.sh
