@@ -3388,6 +3388,27 @@
                 ]
             },
             "last_updated": 1785092100
+        },
+        "186": {
+            "title": "An early bedtime",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2026/07/28/an-early-bedtime/banner1.jpg.png",
+                    "https://cdn.tinyview.com/adhdinos/2026/07/28/an-early-bedtime/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/07/28/an-early-bedtime/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/07/28/an-early-bedtime/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/07/28/an-early-bedtime/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/07/28/an-early-bedtime/5.5.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/07/28/an-early-bedtime/5.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/07/28/an-early-bedtime/5.4.png",
+                    "https://cdn.tinyview.com/adhdinos/2026/07/28/an-early-bedtime/Endcard3_800.jpg",
+                    {
+                        "description": "Seems like a decent way to solve both problems.     \n\nP.S. I will be doing a panel alongside Tinyview at Webcomicon in Ferndale, Michigan this weekend! I also just spent the last 9 days hand-making a set of 34 comic-creator trading cards that will be available for auction!",
+                        "src": "https://fake-images-please.vercel.app/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Seems+like+a+decent+way+to+%0Asolve+both+problems.+++++%0A%0AP.S.+%0AI+will+be+doing+a+panel+alongside+%0ATinyview+at+Webcomicon+in+%0AFerndale%2C+Michigan+this+weekend%21+%0AI+also+just+spent+the+last+%0A9+days+hand-making+a+set+of+%0A34+comic-creator+trading+cards+%0Athat+will+be+available+for+%0Aauction%21"
+                    }
+                ]
+            },
+            "last_updated": 1785353880
         }
     }
 }
