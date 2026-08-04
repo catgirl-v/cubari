@@ -3409,6 +3409,25 @@
                 ]
             },
             "last_updated": 1785353880
+        },
+        "187": {
+            "title": "Casual Sunday",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2026/08/02/casual-sunday/1banner.png",
+                    "https://cdn.tinyview.com/adhdinos/2026/08/02/casual-sunday/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/08/02/casual-sunday/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/08/02/casual-sunday/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/08/02/casual-sunday/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/08/02/casual-sunday/5.5.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/08/02/casual-sunday/5.jpg",
+                    {
+                        "description": "I wonder what that's all about",
+                        "src": "https://fake-images-please.vercel.app/1500x2126/ffffff/000000/?font=noto&font_size=42&text=I+wonder+what+that%27s+all+about"
+                    }
+                ]
+            },
+            "last_updated": 1785800700
         }
     }
 }
