@@ -3428,6 +3428,26 @@
                 ]
             },
             "last_updated": 1785800700
+        },
+        "188": {
+            "title": "A feeling",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2026/08/04/a-feeling/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/08/04/a-feeling/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/08/04/a-feeling/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/08/04/a-feeling/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/08/04/a-feeling/5.5.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/08/04/a-feeling/5.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/08/04/a-feeling/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/08/04/a-feeling/Endcard3_800.jpg",
+                    {
+                        "description": "Like a nervous waiting mode",
+                        "src": "https://fake-images-please.vercel.app/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Like+a+nervous+waiting+mode"
+                    }
+                ]
+            },
+            "last_updated": 1785954300
         }
     }
 }
