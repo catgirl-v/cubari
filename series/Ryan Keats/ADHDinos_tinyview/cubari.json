@@ -3448,6 +3448,26 @@
                 ]
             },
             "last_updated": 1785954300
+        },
+        "189": {
+            "title": "Nostalgia Ambush",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2026/08/06/nostalgia-ambush/banner1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/08/06/nostalgia-ambush/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/08/06/nostalgia-ambush/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/08/06/nostalgia-ambush/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/08/06/nostalgia-ambush/5.5.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/08/06/nostalgia-ambush/5.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/08/06/nostalgia-ambush/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/08/06/nostalgia-ambush/Endcard1_800.jpg",
+                    {
+                        "description": "That was a fun little 33-minute sidebar, but I should probably get back to it",
+                        "src": "https://fake-images-please.vercel.app/1500x2126/ffffff/000000/?font=noto&font_size=42&text=That+was+a+fun+little+33-minute+%0Asidebar%2C+but+I+should+probably+%0Aget+back+to+it"
+                    }
+                ]
+            },
+            "last_updated": 1786118700
         }
     }
 }
