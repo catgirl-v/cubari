@@ -3468,6 +3468,25 @@
                 ]
             },
             "last_updated": 1786118700
+        },
+        "190": {
+            "title": "Anticipation",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2026/08/09/anticipation/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/08/09/anticipation/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/08/09/anticipation/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/08/09/anticipation/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/08/09/anticipation/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/08/09/anticipation/5.5.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/08/09/anticipation/5.jpg",
+                    {
+                        "description": "Just in case something happens, it's probably best you refrain from breathing out until then",
+                        "src": "https://fake-images-please.vercel.app/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Just+in+case+something+happens%2C+%0Ait%27s+probably+best+you+refrain+%0Afrom+breathing+out+until+then"
+                    }
+                ]
+            },
+            "last_updated": 1786384800
         }
     }
 }
