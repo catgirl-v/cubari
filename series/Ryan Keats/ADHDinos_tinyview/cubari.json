@@ -3508,6 +3508,26 @@
                 ]
             },
             "last_updated": 1786550220
+        },
+        "192": {
+            "title": "Quiet time",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2026/08/14/quiet-time/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/08/14/quiet-time/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/08/14/quiet-time/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/08/14/quiet-time/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/08/14/quiet-time/5.5.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/08/14/quiet-time/5.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/08/14/quiet-time/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/08/14/quiet-time/Endcard3_800.jpg",
+                    {
+                        "description": "I *do* adore this time spent unbothered",
+                        "src": "https://fake-images-please.vercel.app/1500x2126/ffffff/000000/?font=noto&font_size=42&text=I+%2Ado%2A+adore+this+time+spent+%0Aunbothered"
+                    }
+                ]
+            },
+            "last_updated": 1786819320
         }
     }
 }
