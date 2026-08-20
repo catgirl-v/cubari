@@ -3547,6 +3547,26 @@
                 ]
             },
             "last_updated": 1786987200
+        },
+        "194": {
+            "title": "Points of View",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2026/08/18/points-of-view/banner.jpg.png",
+                    "https://cdn.tinyview.com/adhdinos/2026/08/18/points-of-view/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/08/18/points-of-view/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/08/18/points-of-view/3.png",
+                    "https://cdn.tinyview.com/adhdinos/2026/08/18/points-of-view/5.5.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/08/18/points-of-view/5.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/08/18/points-of-view/5.4.png",
+                    "https://cdn.tinyview.com/adhdinos/2026/08/18/points-of-view/Endcard3_800.jpg",
+                    {
+                        "description": "I'm just telling you what I... I mean... I guess.",
+                        "src": "https://fake-images-please.vercel.app/1500x2126/ffffff/000000/?font=noto&font_size=42&text=I%27m+just+telling+you+what+%0AI...+I+mean...+I+guess."
+                    }
+                ]
+            },
+            "last_updated": 1787158500
         }
     }
 }
