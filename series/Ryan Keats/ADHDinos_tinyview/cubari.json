@@ -3567,6 +3567,25 @@
                 ]
             },
             "last_updated": 1787158500
+        },
+        "195": {
+            "title": "Jedi mind tricks",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2026/08/21/jedi-mind-tricks/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/08/21/jedi-mind-tricks/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/08/21/jedi-mind-tricks/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/08/21/jedi-mind-tricks/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/08/21/jedi-mind-tricks/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/08/21/jedi-mind-tricks/5.5.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/08/21/jedi-mind-tricks/5.jpg",
+                    {
+                        "description": "Brain, in doing so, ensures it happens again",
+                        "src": "https://fake-images-please.vercel.app/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Brain%2C+in+doing+so%2C+ensures+%0Ait+happens+again"
+                    }
+                ]
+            },
+            "last_updated": 1787436900
         }
     }
 }
