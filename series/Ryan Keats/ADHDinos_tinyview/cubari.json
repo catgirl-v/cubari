@@ -3586,6 +3586,27 @@
                 ]
             },
             "last_updated": 1787436900
+        },
+        "196": {
+            "title": "Comic-Conversations",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2026/08/23/comic-conversations/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/08/23/comic-conversations/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/08/23/comic-conversations/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/08/23/comic-conversations/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/08/23/comic-conversations/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/08/23/comic-conversations/5.5.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/08/23/comic-conversations/5.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/08/23/comic-conversations/5.4.png",
+                    "https://cdn.tinyview.com/adhdinos/2026/08/23/comic-conversations/Endcard3_800.jpg",
+                    {
+                        "description": "It would be cool if my filter did a better job catching stuff before it's said, not after.",
+                        "src": "https://fake-images-please.vercel.app/1500x2126/ffffff/000000/?font=noto&font_size=42&text=It+would+be+cool+if+my+filter+%0Adid+a+better+job+catching+%0Astuff+before+it%27s+said%2C+not+%0Aafter."
+                    }
+                ]
+            },
+            "last_updated": 1787593500
         }
     }
 }
