@@ -3607,6 +3607,26 @@
                 ]
             },
             "last_updated": 1787593500
+        },
+        "197": {
+            "title": "Moving on",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2026/08/27/moving-on/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/08/27/moving-on/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/08/27/moving-on/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/08/27/moving-on/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/08/27/moving-on/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/08/27/moving-on/5.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/08/27/moving-on/5.4.png",
+                    "https://cdn.tinyview.com/adhdinos/2026/08/27/moving-on/Endcard1_800.jpg",
+                    {
+                        "description": "The stress of still needing to do it was eating away at me a bit, so I've fully given up instead",
+                        "src": "https://fake-images-please.vercel.app/1500x2126/ffffff/000000/?font=noto&font_size=42&text=The+stress+of+still+needing+%0Ato+do+it+was+eating+away+at+%0Ame+a+bit%2C+so+I%27ve+fully+given+%0Aup+instead"
+                    }
+                ]
+            },
+            "last_updated": 1787932740
         }
     }
 }
