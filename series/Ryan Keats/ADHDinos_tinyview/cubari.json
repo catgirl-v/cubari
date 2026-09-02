@@ -3646,6 +3646,25 @@
                 ]
             },
             "last_updated": 1788016200
+        },
+        "199": {
+            "title": "Backing track",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2026/08/31/backing-track/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/08/31/backing-track/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/08/31/backing-track/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/08/31/backing-track/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/08/31/backing-track/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/08/31/backing-track/5.5.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/08/31/backing-track/5.jpg",
+                    {
+                        "description": "Even I get bored with a song after about 55 loops of the same part. ",
+                        "src": "https://fake-images-please.vercel.app/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Even+I+get+bored+with+a+song+%0Aafter+about+55+loops+of+the+%0Asame+part."
+                    }
+                ]
+            },
+            "last_updated": 1788295800
         }
     }
 }
