@@ -3665,6 +3665,25 @@
                 ]
             },
             "last_updated": 1788295800
+        },
+        "200": {
+            "title": "Self-Reflection",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2026/09/04/self-reflection/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/09/04/self-reflection/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/09/04/self-reflection/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/09/04/self-reflection/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/09/04/self-reflection/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/09/04/self-reflection/5.5.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/09/04/self-reflection/5.jpg",
+                    {
+                        "description": "Sort of like a cornered raccoon",
+                        "src": "https://fake-images-please.vercel.app/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Sort+of+like+a+cornered+raccoon"
+                    }
+                ]
+            },
+            "last_updated": 1788567600
         }
     }
 }
