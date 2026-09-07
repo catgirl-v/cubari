@@ -3684,6 +3684,25 @@
                 ]
             },
             "last_updated": 1788567600
+        },
+        "201": {
+            "title": "Welcome back",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2026/09/06/welcome-back/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/09/06/welcome-back/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/09/06/welcome-back/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/09/06/welcome-back/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/09/06/welcome-back/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/09/06/welcome-back/5.5.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/09/06/welcome-back/5.jpg",
+                    {
+                        "description": "Had no idea that was an option this whole time!",
+                        "src": "https://fake-images-please.vercel.app/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Had+no+idea+that+was+an+option+%0Athis+whole+time%21"
+                    }
+                ]
+            },
+            "last_updated": 1788795600
         }
     }
 }
