@@ -3703,6 +3703,25 @@
                 ]
             },
             "last_updated": 1788795600
+        },
+        "202": {
+            "title": "Vote now!",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2026/09/08/vote-now/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/09/08/vote-now/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/09/08/vote-now/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/09/08/vote-now/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/09/08/vote-now/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/09/08/vote-now/5.5.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/09/08/vote-now/5.jpg",
+                    {
+                        "description": "I've got lots of experience",
+                        "src": "https://fake-images-please.vercel.app/1500x2126/ffffff/000000/?font=noto&font_size=42&text=I%27ve+got+lots+of+experience"
+                    }
+                ]
+            },
+            "last_updated": 1788962280
         }
     }
 }
