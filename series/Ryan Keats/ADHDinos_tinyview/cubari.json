@@ -3722,6 +3722,27 @@
                 ]
             },
             "last_updated": 1788962280
+        },
+        "203": {
+            "title": "Wishful Thinking",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2026/09/10/wishful-thinking/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/09/10/wishful-thinking/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/09/10/wishful-thinking/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/09/10/wishful-thinking/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/09/10/wishful-thinking/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/09/10/wishful-thinking/5.5.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/09/10/wishful-thinking/5.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/09/10/wishful-thinking/5.4.png",
+                    "https://cdn.tinyview.com/adhdinos/2026/09/10/wishful-thinking/Endcard1_800.jpg",
+                    {
+                        "description": "Let's just see how this plays out",
+                        "src": "https://fake-images-please.vercel.app/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Let%27s+just+see+how+this+plays+%0Aout"
+                    }
+                ]
+            },
+            "last_updated": 1789137300
         }
     }
 }
