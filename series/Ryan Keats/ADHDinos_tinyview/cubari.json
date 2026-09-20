@@ -3801,6 +3801,25 @@
                 ]
             },
             "last_updated": 1789670100
+        },
+        "207": {
+            "title": "The Bare Minimum",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2026/09/18/the-bare-minimum/Banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/09/18/the-bare-minimum/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/09/18/the-bare-minimum/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/09/18/the-bare-minimum/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/09/18/the-bare-minimum/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/09/18/the-bare-minimum/5.5.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/09/18/the-bare-minimum/5.jpg",
+                    {
+                        "description": "It kinda feels like tossing a garbage bag into a dumpster",
+                        "src": "https://fake-images-please.vercel.app/1500x2126/ffffff/000000/?font=noto&font_size=42&text=It+kinda+feels+like+tossing+%0Aa+garbage+bag+into+a+dumpster"
+                    }
+                ]
+            },
+            "last_updated": 1789849800
         }
     }
 }
