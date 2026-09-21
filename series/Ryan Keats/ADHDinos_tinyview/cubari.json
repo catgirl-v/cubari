@@ -3820,6 +3820,27 @@
                 ]
             },
             "last_updated": 1789849800
+        },
+        "208": {
+            "title": "Self-reflection",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2026/09/20/self-reflection/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/09/20/self-reflection/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/09/20/self-reflection/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/09/20/self-reflection/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/09/20/self-reflection/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/09/20/self-reflection/5.5.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/09/20/self-reflection/5.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/09/20/self-reflection/5.4.png",
+                    "https://cdn.tinyview.com/adhdinos/2026/09/20/self-reflection/Endcard1_800.jpg",
+                    {
+                        "description": "I wrote this a while back after a particularly frustrating instance of letting myself and others down. I... think all you can really do is try to do better, but I sometimes really find myself wishing I wasn't like this. That negativity can really pile up. Remember to be kind to yourself, even when you're not happy with that person",
+                        "src": "https://fake-images-please.vercel.app/1500x2126/ffffff/000000/?font=noto&font_size=42&text=I+wrote+this+a+while+back+%0Aafter+a+particularly+frustrating+%0Ainstance+of+letting+myself+%0Aand+others+down.+I...+think+%0Aall+you+can+really+do+is+try+%0Ato+do+better%2C+but+I+sometimes+%0Areally+find+myself+wishing+%0AI+wasn%27t+like+this.+That+negativity+%0Acan+really+pile+up.+Remember+%0Ato+be+kind+to+yourself%2C+even+%0Awhen+you%27re+not+happy+with+%0Athat+person"
+                    }
+                ]
+            },
+            "last_updated": 1790011800
         }
     }
 }
