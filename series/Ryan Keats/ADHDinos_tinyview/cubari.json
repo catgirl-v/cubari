@@ -3841,6 +3841,25 @@
                 ]
             },
             "last_updated": 1790011800
+        },
+        "209": {
+            "title": "Taking chances",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2026/09/23/taking-chances/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/09/23/taking-chances/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/09/23/taking-chances/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/09/23/taking-chances/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/09/23/taking-chances/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/09/23/taking-chances/5.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/09/23/taking-chances/banner.jpg",
+                    {
+                        "description": "A task being quick *SHOULD* spur me into action...",
+                        "src": "https://fake-images-please.vercel.app/1500x2126/ffffff/000000/?font=noto&font_size=42&text=A+task+being+quick+%2ASHOULD%2A+%0Aspur+me+into+action..."
+                    }
+                ]
+            },
+            "last_updated": 1790270700
         }
     }
 }
