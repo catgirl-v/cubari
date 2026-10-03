@@ -3900,6 +3900,24 @@
                 ]
             },
             "last_updated": 1790614500
+        },
+        "212": {
+            "title": "On repeat",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2026/10/01/on-repeat/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/10/01/on-repeat/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/10/01/on-repeat/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/10/01/on-repeat/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/10/01/on-repeat/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/10/01/on-repeat/5.jpg",
+                    {
+                        "description": "He's busy.",
+                        "src": "https://fake-images-please.vercel.app/1500x2126/ffffff/000000/?font=noto&font_size=42&text=He%27s+busy."
+                    }
+                ]
+            },
+            "last_updated": 1790970960
         }
     }
 }
