@@ -3956,6 +3956,25 @@
                 ]
             },
             "last_updated": 1792006560
+        },
+        "215": {
+            "title": "Backsliding",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2026/10/15/backsliding/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/10/15/backsliding/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/10/15/backsliding/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/10/15/backsliding/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/10/15/backsliding/5.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/10/15/backsliding/5.5.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/10/15/backsliding/Endcard2_800.jpg",
+                    {
+                        "description": "Apparently, you need to keep doing it? No one told me you need to keep doing it.",
+                        "src": "https://fake-images-please.vercel.app/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Apparently%2C+you+need+to+keep+%0Adoing+it%3F+No+one+told+me+you+%0Aneed+to+keep+doing+it."
+                    }
+                ]
+            },
+            "last_updated": 1792164300
         }
     }
 }
