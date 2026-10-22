@@ -3994,6 +3994,25 @@
                 ]
             },
             "last_updated": 1792434300
+        },
+        "217": {
+            "title": "Working it out",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2026/10/20/working-it-out/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/10/20/working-it-out/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/10/20/working-it-out/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/10/20/working-it-out/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/10/20/working-it-out/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/10/20/working-it-out/5.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/10/20/working-it-out/5.5.jpg",
+                    {
+                        "description": "Narrated by Sir David Attenborough",
+                        "src": "https://fake-images-please.vercel.app/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Narrated+by+Sir+David+Attenborough"
+                    }
+                ]
+            },
+            "last_updated": 1792602900
         }
     }
 }
