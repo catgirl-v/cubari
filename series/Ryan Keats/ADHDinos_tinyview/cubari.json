@@ -4013,6 +4013,25 @@
                 ]
             },
             "last_updated": 1792602900
+        },
+        "218": {
+            "title": "Writing on the Wall",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2026/10/22/writing-on-the-wall/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/10/22/writing-on-the-wall/1-1792769172803.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/10/22/writing-on-the-wall/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/10/22/writing-on-the-wall/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/10/22/writing-on-the-wall/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/10/22/writing-on-the-wall/5.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/10/22/writing-on-the-wall/Endcard1_800.jpg",
+                    {
+                        "description": "All I need is a sign, maybe.",
+                        "src": "https://fake-images-please.vercel.app/1500x2126/ffffff/000000/?font=noto&font_size=42&text=All+I+need+is+a+sign%2C+maybe."
+                    }
+                ]
+            },
+            "last_updated": 1792769400
         }
     }
 }
