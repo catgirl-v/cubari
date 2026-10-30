@@ -4069,6 +4069,24 @@
                 ]
             },
             "last_updated": 1793219100
+        },
+        "221": {
+            "title": "Rest in guilt",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2026/10/29/rest-in-guilt/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/10/29/rest-in-guilt/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/10/29/rest-in-guilt/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/10/29/rest-in-guilt/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/10/29/rest-in-guilt/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/10/29/rest-in-guilt/5.jpg",
+                    {
+                        "description": "Not sure if it's worse to be panicking about something that isn't a problem, or to have a problem quietly stewing under my nose.",
+                        "src": "https://fake-images-please.vercel.app/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Not+sure+if+it%27s+worse+to+%0Abe+panicking+about+something+%0Athat+isn%27t+a+problem%2C+or+to+%0Ahave+a+problem+quietly+stewing+%0Aunder+my+nose."
+                    }
+                ]
+            },
+            "last_updated": 1793372100
         }
     }
 }
