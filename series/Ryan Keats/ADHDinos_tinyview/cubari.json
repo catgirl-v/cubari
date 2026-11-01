@@ -4087,6 +4087,24 @@
                 ]
             },
             "last_updated": 1793372100
+        },
+        "222": {
+            "title": "Authenticity",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2026/10/30/authenticity/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/10/30/authenticity/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/10/30/authenticity/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/10/30/authenticity/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/10/30/authenticity/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/10/30/authenticity/5.jpg",
+                    {
+                        "description": "Decidedly, I\u2019m not sorry they find me to be a bit much, I find them to be a lot BORING",
+                        "src": "https://fake-images-please.vercel.app/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Decidedly%2C+I%E2%80%99m+not+sorry+they+%0Afind+me+to+be+a+bit+much%2C+%0AI+find+them+to+be+a+lot+BORING"
+                    }
+                ]
+            },
+            "last_updated": 1793473800
         }
     }
 }
