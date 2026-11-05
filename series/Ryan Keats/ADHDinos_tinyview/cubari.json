@@ -4123,6 +4123,24 @@
                 ]
             },
             "last_updated": 1793724060
+        },
+        "224": {
+            "title": "Break-time",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2026/11/04/break-time/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/11/04/break-time/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/11/04/break-time/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/11/04/break-time/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/11/04/break-time/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/11/04/break-time/5.jpg",
+                    {
+                        "description": "A poor use of 25 minutes",
+                        "src": "https://fake-images-please.vercel.app/1500x2126/ffffff/000000/?font=noto&font_size=42&text=A+poor+use+of+25+minutes"
+                    }
+                ]
+            },
+            "last_updated": 1793894100
         }
     }
 }
