@@ -4176,6 +4176,25 @@
                 ]
             },
             "last_updated": 1794408300
+        },
+        "227": {
+            "title": "Cortisol cocktail",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2026/11/13/cortisol-cocktail/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/11/13/cortisol-cocktail/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/11/13/cortisol-cocktail/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/11/13/cortisol-cocktail/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/11/13/cortisol-cocktail/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/11/13/cortisol-cocktail/5.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/11/13/cortisol-cocktail/Endcard1_800.jpg",
+                    {
+                        "description": "\"It can't hurt\"\u2014 actually, it can",
+                        "src": "https://fake-images-please.vercel.app/1500x2126/ffffff/000000/?font=noto&font_size=42&text=%22It+can%27t+hurt%22%E2%80%94+actually%2C+%0Ait+can"
+                    }
+                ]
+            },
+            "last_updated": 1794581100
         }
     }
 }
