@@ -4230,6 +4230,24 @@
                 ]
             },
             "last_updated": 1794954900
+        },
+        "230": {
+            "title": "Business Proposal",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2026/11/19/business-proposal/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/11/19/business-proposal/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/11/19/business-proposal/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/11/19/business-proposal/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/11/19/business-proposal/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/11/19/business-proposal/5.jpg",
+                    {
+                        "description": "I don't reckon this idea is Shark Tank ready",
+                        "src": "https://fake-images-please.vercel.app/1500x2126/ffffff/000000/?font=noto&font_size=42&text=I+don%27t+reckon+this+idea+is+%0AShark+Tank+ready"
+                    }
+                ]
+            },
+            "last_updated": 1795206600
         }
     }
 }
