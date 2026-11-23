@@ -4248,6 +4248,22 @@
                 ]
             },
             "last_updated": 1795206600
+        },
+        "231": {
+            "title": "Avoidance",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2026/11/22/avoidance/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/11/22/avoidance/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/11/22/avoidance/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/11/22/avoidance/Endcard1_800.jpg",
+                    {
+                        "description": "I quite often fail to account for consequences when evaluating the importance of tasks.",
+                        "src": "https://fake-images-please.vercel.app/1500x2126/ffffff/000000/?font=noto&font_size=42&text=I+quite+often+fail+to+account+%0Afor+consequences+when+evaluating+%0Athe+importance+of+tasks."
+                    }
+                ]
+            },
+            "last_updated": 1795454100
         }
     }
 }
