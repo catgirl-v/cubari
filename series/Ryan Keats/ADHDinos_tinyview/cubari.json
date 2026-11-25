@@ -4264,6 +4264,24 @@
                 ]
             },
             "last_updated": 1795454100
+        },
+        "232": {
+            "title": "Big reveal",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2026/11/24/big-reveal/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/11/24/big-reveal/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/11/24/big-reveal/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/11/24/big-reveal/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/11/24/big-reveal/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/11/24/big-reveal/5.jpg",
+                    {
+                        "description": "Brain?? Brain?!",
+                        "src": "https://fake-images-please.vercel.app/1500x2126/ffffff/000000/?font=noto&font_size=42&text=Brain%3F%3F+Brain%3F%21"
+                    }
+                ]
+            },
+            "last_updated": 1795633200
         }
     }
 }
