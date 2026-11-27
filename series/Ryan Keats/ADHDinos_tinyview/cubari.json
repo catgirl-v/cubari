@@ -4282,6 +4282,24 @@
                 ]
             },
             "last_updated": 1795633200
+        },
+        "233": {
+            "title": "Disruptivity",
+            "groups": {
+                "ADHDinos": [
+                    "https://cdn.tinyview.com/adhdinos/2026/11/26/disruptivity/banner.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/11/26/disruptivity/1.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/11/26/disruptivity/2.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/11/26/disruptivity/3.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/11/26/disruptivity/4.jpg",
+                    "https://cdn.tinyview.com/adhdinos/2026/11/26/disruptivity/5.jpg",
+                    {
+                        "description": "It's only a problem if it's a problem",
+                        "src": "https://fake-images-please.vercel.app/1500x2126/ffffff/000000/?font=noto&font_size=42&text=It%27s+only+a+problem+if+it%27s+%0Aa+problem"
+                    }
+                ]
+            },
+            "last_updated": 1795799160
         }
     }
 }
